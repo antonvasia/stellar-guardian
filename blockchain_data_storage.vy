@@ -2,3 +2,4 @@
 // Add batch processing for transactions
 // Fix issues with gas optimization in smart contracts
 // Enhance token swap functionality
+// Add support for fractional token ownership
