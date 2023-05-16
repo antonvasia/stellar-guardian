@@ -3,3 +3,4 @@
 // Fix issues with gas optimization in smart contracts
 // Enhance token swap functionality
 // Add support for fractional token ownership
+// Add support for decentralized file storage
