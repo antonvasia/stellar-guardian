@@ -2,3 +2,4 @@
 // Fix issues with token vesting contracts
 // Improve contract execution speed
 // Enhance contract upgrade mechanism
+// Implement delegation pattern
