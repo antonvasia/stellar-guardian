@@ -3,3 +3,4 @@
 // Optimize token minting flow
 // Fix issues with contract finalization
 // Improve staking logic for better rewards
+// Improve staking logic for better rewards
