@@ -2,3 +2,4 @@
 // Fix ERC-721 contract issues with transfers
 // Refactor validator reward system
 // Improve staking logic for better rewards
+// Integrate automated market maker (AMM) logic
