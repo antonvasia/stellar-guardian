@@ -2,3 +2,4 @@
 // Fix issues with contract finalization
 // Fix edge case in unstaking logic
 // Bugfix: incorrect reward calculation
+// Add support for decentralized marketplaces
