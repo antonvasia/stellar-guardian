@@ -3,3 +3,4 @@
 // Optimize storage for off-chain data
 // Refactor incentive structure in DeFi protocol
 // Optimize contract upgrade process
+// Fix deserialization bug in Haskell code
