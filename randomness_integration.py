@@ -4,3 +4,4 @@
 // Enhance logging for better debugging
 // Fix compatibility with MetaMask
 // Add support for DeFi lending protocols
+// Optimize contract storage for gas reduction
