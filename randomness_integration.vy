@@ -3,3 +3,4 @@
 // Improve DApp transaction flow
 // Add support for zk-SNARKs in smart contracts
 // Add support for multiple consensus mechanisms
+// Optimize gas usage in smart contracts
