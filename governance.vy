@@ -5,3 +5,4 @@
 // Implement cross-platform contract compatibility
 // Fix bugs in NFT metadata handling
 // Improve contract verification speed
+// Implement contract function batching
