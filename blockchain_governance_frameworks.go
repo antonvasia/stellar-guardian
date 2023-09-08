@@ -3,3 +3,4 @@
 // Integrate with Ethereum Layer-2 solutions
 // Fix Oracle communication delay issues
 // Optimize hashing algorithm
+// Refactor smart contract testing framework
