@@ -5,3 +5,4 @@
 // Add support for yield farming rewards
 // Implement rewards escrow system
 // Enhance gas fee management
+// Fix issues with ERC-20 token approvals
