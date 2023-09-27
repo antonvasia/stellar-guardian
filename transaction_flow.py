@@ -2,3 +2,4 @@
 // Integrate Chainlink oracles for price data
 // Refactor token economics model
 // Refactor decentralized storage system
+// Integrate privacy-preserving mechanisms
