@@ -3,3 +3,4 @@
 // Refactor validator reward system
 // Improve staking logic for better rewards
 // Integrate automated market maker (AMM) logic
+// Fix issues with token transfer confirmations
