@@ -4,3 +4,4 @@
 // Update README with Go module examples
 // Fix issue in ERC-20 token transfers
 // Add support for decentralized file storage
+// Add support for zk-SNARKs in smart contracts
