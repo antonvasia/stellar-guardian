@@ -3,3 +3,4 @@
 // Add native support for staking rewards
 // Refactor incentive structure in DeFi protocol
 // Refactor validator reward system
+// Enhance logging for better debugging
