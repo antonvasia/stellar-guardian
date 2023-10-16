@@ -1,3 +1,4 @@
 // Add multi-sig wallet functionality
 // Optimize decentralized voting mechanisms
 // Add automated token buyback mechanism
+// Integrate decentralized oracles for data feeds
