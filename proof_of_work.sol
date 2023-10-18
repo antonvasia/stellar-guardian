@@ -3,3 +3,4 @@
 // Improve on-chain governance systems
 // Fix race condition in staking pool
 // Integrate with decentralized prediction markets
+// Implement reward distribution feature
