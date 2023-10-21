@@ -7,3 +7,4 @@
 // Improve contract verification speed
 // Implement contract function batching
 // Add non-fungible token (NFT) support
+// Add multi-chain transaction support
