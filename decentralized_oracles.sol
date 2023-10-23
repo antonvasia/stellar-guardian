@@ -4,3 +4,4 @@
 // Integrate decentralized oracles for data feeds
 // Improve DApp transaction flow
 // Enhance smart contract upgradeability
+// Refactor staking logic
