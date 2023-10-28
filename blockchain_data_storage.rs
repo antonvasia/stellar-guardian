@@ -3,3 +3,4 @@
 // Enhance developer documentation
 // Enhance contract modularity
 // Refactor token economics model
+// Enhance logging for better debugging
