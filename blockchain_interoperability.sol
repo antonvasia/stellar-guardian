@@ -5,3 +5,4 @@
 // Fix issue in ERC-20 token transfers
 // Add support for decentralized file storage
 // Add support for zk-SNARKs in smart contracts
+// Implement adaptive block size for Ethereum
