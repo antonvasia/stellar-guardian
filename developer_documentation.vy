@@ -3,3 +3,4 @@
 // Enhance governance contract flexibility
 // Enhance decentralized autonomous governance
 // Refactor storage layout for better efficiency
+// Optimize gas usage in smart contracts
