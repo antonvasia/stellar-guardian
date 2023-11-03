@@ -3,3 +3,4 @@
 // Fix interoperability issues with other blockchains
 // Fix vulnerabilities in staking contracts
 // Add support for NFT marketplaces
+// Refactor decentralized storage system
