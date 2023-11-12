@@ -4,3 +4,4 @@
 // Improve smart contract logging
 // Improve contract modularity
 // Fix errors in contract interaction with wallets
+// Improve decentralized identity (DID) systems
