@@ -3,3 +3,4 @@
 // Optimize oracle data fetching mechanism
 // Optimize gas cost in function execution
 // Improve multi-chain contract deployment
+// Fix compatibility issues with MetaMask
