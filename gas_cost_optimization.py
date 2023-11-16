@@ -2,3 +2,4 @@
 // Refactor validator reward system
 // Fix transaction replay issue
 // Implement price feed oracles for tokens
+// Add support for ERC-721A tokens
