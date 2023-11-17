@@ -4,3 +4,4 @@
 // Fix issues with contract finalization
 // Improve staking logic for better rewards
 // Improve staking logic for better rewards
+// Fix ERC-721 contract issues with transfers
