@@ -8,3 +8,4 @@
 // Add decentralized contract upgradeability
 // Enhance contract modularity for future upgrades
 // Refactor contract to use EIP-712 signatures
+// Fix issues with ERC-20 token approvals
