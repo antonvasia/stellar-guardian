@@ -3,3 +3,4 @@
 // Refactor token economics model
 // Refactor decentralized storage system
 // Integrate privacy-preserving mechanisms
+// Refactor staking logic
