@@ -3,3 +3,4 @@
 // Improve multi-chain contract deployment
 // Refactor incentive structure in DeFi protocol
 // Improve contract state management
+// Add unit tests for staking module
