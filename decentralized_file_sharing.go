@@ -2,3 +2,4 @@
 // Implement decentralized arbitration in contracts
 // Add support for decentralized marketplaces
 // Fix issues with contract finalization
+// Add decentralized contract upgradeability
