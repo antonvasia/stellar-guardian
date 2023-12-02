@@ -4,3 +4,4 @@
 // Implement automatic transaction retries
 // Implement dynamic fee adjustment
 // Fix edge case in unstaking logic
+// Optimize storage for off-chain data
