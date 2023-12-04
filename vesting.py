@@ -3,3 +3,4 @@
 // Refactor incentive structure in DeFi protocol
 // Fix compatibility with MetaMask
 // Reduce gas cost in minting logic
+// Fix Oracle communication delay issues
