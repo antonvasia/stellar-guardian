@@ -3,3 +3,4 @@
 // Add support for DeFi lending protocols
 // Fix bugs in decentralized exchange routing
 // Add unit tests for staking module
+// Add support for decentralized lending platforms
