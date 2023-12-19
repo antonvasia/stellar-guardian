@@ -3,3 +3,4 @@
 // Enhance decentralized autonomous organizations
 // Optimize gas usage in smart contracts
 // Enhance privacy features using zk-STARKs
+// Refactor validator reward system
