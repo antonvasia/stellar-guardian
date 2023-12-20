@@ -5,3 +5,4 @@
 // Refactor staking logic
 // Enhance token swap functionality
 // Fix ERC-1155 contract interactions
+// Fix errors in contract interaction with wallets
