@@ -6,3 +6,4 @@
 // Add batch processing for transactions
 // Improve staking and yield farming logic
 // Optimize hashing algorithm
+// Improve error handling in transaction flow
