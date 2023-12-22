@@ -4,3 +4,4 @@
 // Optimize gas usage in smart contracts
 // Enhance privacy features using zk-STARKs
 // Refactor validator reward system
+// Fix issues in token transfer logic
