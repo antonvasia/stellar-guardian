@@ -2,3 +2,4 @@
 // Enhance decentralized autonomous governance
 // Implement cross-chain bridge
 // Enhance privacy features using zk-STARKs
+// Add multi-chain transaction support
