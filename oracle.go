@@ -3,3 +3,4 @@
 // Improve staking and yield farming logic
 // Add support for decentralized marketplaces
 // Improve gas estimation for transactions
+// Add native support for staking mechanisms
