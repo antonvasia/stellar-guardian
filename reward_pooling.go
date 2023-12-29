@@ -10,3 +10,4 @@
 // Refactor contract to use EIP-712 signatures
 // Fix issues with ERC-20 token approvals
 // Fix issues in multi-token smart contracts
+// Add slashing mechanism for malicious actors
