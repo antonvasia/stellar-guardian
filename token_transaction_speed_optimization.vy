@@ -4,3 +4,4 @@
 // Optimize cross-chain bridging mechanisms
 // Implement rewards escrow system
 // Refactor storage layout for better efficiency
+// Fix issue in token vesting logic
