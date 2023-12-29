@@ -4,3 +4,4 @@
 // Improve cross-chain asset management
 // Refactor multi-signature wallet code
 // Implement decentralized arbitration in contracts
+// Add support for zk-SNARKs in smart contracts
