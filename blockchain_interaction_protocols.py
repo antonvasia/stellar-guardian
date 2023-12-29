@@ -3,3 +3,4 @@
 // Improve ERC-721 token metadata functionality
 // Improve error handling in transaction flow
 // Add batch processing for transactions
+// Refactor Ethereum gas price management
