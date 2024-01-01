@@ -3,3 +3,4 @@
 // Optimize decentralized voting mechanisms
 // Improve cross-chain asset management
 // Enhance contract modularity for future upgrades
+// Reduce gas cost in minting logic
