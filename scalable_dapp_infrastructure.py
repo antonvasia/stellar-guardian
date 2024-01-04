@@ -4,3 +4,4 @@
 // Add multi-sig wallet functionality
 // Fix issues in multi-token smart contracts
 // Refactor governance proposal logic
+// Implement delegation pattern
