@@ -3,3 +3,4 @@
 // Improve contract state management
 // Refactor staking logic
 // Implement delegation pattern
+// Fix issues with token vesting contracts
