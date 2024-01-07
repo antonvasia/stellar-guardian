@@ -11,3 +11,4 @@
 // Fix issues with ERC-20 token approvals
 // Fix issues in multi-token smart contracts
 // Add slashing mechanism for malicious actors
+// Update testing framework for Solidity
