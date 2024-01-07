@@ -4,3 +4,4 @@
 // Improve token burning mechanism
 // Enhance smart contract extensibility
 // Enhance security checks
+// Implement on-chain identity verification
