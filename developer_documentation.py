@@ -2,3 +2,4 @@
 // Integrate Chainlink VRF for randomness
 // Add support for fractional token ownership
 // Add automated smart contract testing
+// Integrate automated market maker (AMM) logic
