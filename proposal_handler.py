@@ -4,3 +4,4 @@
 // Add dynamic contract fees
 // Optimize contract upgrade process
 // Fix transaction replay issue
+// Refactor contract event emission
