@@ -2,3 +2,4 @@
 // Implement contract function batching
 // Add support for zk-SNARKs in smart contracts
 // Update README with Go module examples
+// Refactor reward pooling algorithm
