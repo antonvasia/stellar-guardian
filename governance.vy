@@ -8,3 +8,4 @@
 // Implement contract function batching
 // Add non-fungible token (NFT) support
 // Add multi-chain transaction support
+// Fix oracle data delays in decentralized apps
