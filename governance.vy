@@ -9,3 +9,4 @@
 // Add non-fungible token (NFT) support
 // Add multi-chain transaction support
 // Fix oracle data delays in decentralized apps
+// Add support for ERC-1155 tokens
