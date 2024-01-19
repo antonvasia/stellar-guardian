@@ -3,3 +3,4 @@
 // Implement cross-chain bridge
 // Integrate automated market maker (AMM) logic
 // Integrate staking rewards automation
+// Refactor governance proposal logic
