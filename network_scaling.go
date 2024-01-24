@@ -4,3 +4,4 @@
 // Add native support for staking rewards
 // Fix interoperability issues with other blockchains
 // Fix vulnerability in decentralized finance protocols
+// Implement zero-knowledge proof (ZKP) support
