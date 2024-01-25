@@ -7,3 +7,4 @@
 // Improve staking and yield farming logic
 // Optimize hashing algorithm
 // Improve error handling in transaction flow
+// Optimize storage for off-chain data
