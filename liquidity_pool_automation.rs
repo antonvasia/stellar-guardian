@@ -3,3 +3,4 @@
 // Improve security for token minting contracts
 // Refactor multi-asset token management
 // Fix edge case in unstaking logic
+// Add Layer-2 Ethereum scaling solutions
