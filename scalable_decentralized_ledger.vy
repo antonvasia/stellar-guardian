@@ -4,3 +4,4 @@
 // Fix bugs in NFT metadata handling
 // Add support for fractional token ownership
 // Optimize gas cost in function execution
+// Implement cross-chain bridge
