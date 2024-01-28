@@ -4,3 +4,4 @@
 // Integrate privacy-enhancing smart contracts
 // Optimize hashing algorithm
 // Fix interoperability issues with other blockchains
+// Update README with Go module examples
