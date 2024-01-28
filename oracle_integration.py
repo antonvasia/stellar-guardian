@@ -5,3 +5,4 @@
 // Fix issues with contract state management
 // Enhance test coverage for Rust module
 // Refactor governance proposal logic
+// Add support for DeFi lending protocols
