@@ -4,3 +4,4 @@
 // Fix issues with token vesting contracts
 // Add support for multiple consensus mechanisms
 // Implement price feed oracles for tokens
+// Improve gas estimation for transactions
