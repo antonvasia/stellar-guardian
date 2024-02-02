@@ -3,3 +3,4 @@
 // Improve security for token minting contracts
 // Add support for ERC-1155 tokens
 // Improve decentralized identity (DID) systems
+// Fix governance proposal approval logic
