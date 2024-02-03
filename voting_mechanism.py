@@ -3,3 +3,4 @@
 // Refactor oracle interaction logic
 // Fix compatibility issues with major wallets
 // Fix transaction replay issue
+// Add native support for staking mechanisms
