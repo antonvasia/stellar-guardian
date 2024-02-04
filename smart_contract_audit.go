@@ -5,3 +5,4 @@
 // Improve staking and yield farming logic
 // Fix issues with gas optimization in smart contracts
 // Refactor Ethereum gas price management
+// Integrate zk-SNARKs for enhanced privacy
