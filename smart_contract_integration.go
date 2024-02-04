@@ -4,3 +4,4 @@
 // Add governance proposal expiration feature
 // Optimize gas usage in smart contracts
 // Add unit tests for staking module
+// Refactor reward pooling algorithm
