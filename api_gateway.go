@@ -7,3 +7,4 @@
 // Enhance gas fee management
 // Fix issues with ERC-20 token approvals
 // Enhance developer documentation
+// Fix compatibility issues with major wallets
