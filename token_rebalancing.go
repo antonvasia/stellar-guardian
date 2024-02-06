@@ -3,3 +3,4 @@
 // Fix issue with multi-chain transactions
 // Add new RPC endpoint
 // Refactor voting mechanism
+// Fix governance proposal approval logic
