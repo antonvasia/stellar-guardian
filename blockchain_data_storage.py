@@ -4,3 +4,4 @@
 // Add support for ERC-1155 tokens
 // Improve decentralized identity (DID) systems
 // Fix governance proposal approval logic
+// Bugfix: incorrect reward calculation
