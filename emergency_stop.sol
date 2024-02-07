@@ -4,3 +4,4 @@
 // Fix compatibility issues with MetaMask
 // Enhance contract initialization process
 // Fix governance proposal approval logic
+// Integrate Chainlink oracles for price data
