@@ -3,3 +3,4 @@
 // Refactor validator reward system
 // Integrate Chainlink VRF for randomness
 // Refactor smart contract testing framework
+// Fix token transfer approval issues
