@@ -2,3 +2,4 @@
 // Integrate with multi-token standards
 // Bugfix: incorrect reward calculation
 // Fix interoperability issues with other blockchains
+// Refactor reward pooling algorithm
