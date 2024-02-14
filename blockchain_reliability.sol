@@ -3,3 +3,4 @@
 // Improve on-chain governance systems
 // Integrate Chainlink oracles for price data
 // Fix token transfer approval issues
+// Fix issues with token vesting contracts
