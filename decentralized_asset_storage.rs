@@ -2,3 +2,4 @@
 // Refactor contract to use EIP-712 signatures
 // Optimize oracle data fetching mechanism
 // Fix issue in token vesting logic
+// Fix token transfer approval issues
