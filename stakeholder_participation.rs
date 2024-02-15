@@ -2,3 +2,4 @@
 // Enhance contract initialization process
 // Integrate Chainlink VRF for randomness
 // Integrate zk-SNARKs for enhanced privacy
+// Enhance transaction monitoring
