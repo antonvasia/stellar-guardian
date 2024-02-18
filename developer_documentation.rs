@@ -4,3 +4,4 @@
 // Update testing framework for Solidity
 // Integrate IPFS for storage
 // Add slashing mechanism for malicious actors
+// Integrate IPFS for storage
