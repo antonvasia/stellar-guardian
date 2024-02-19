@@ -4,3 +4,4 @@
 // Fix edge case in unstaking logic
 // Integrate privacy-preserving mechanisms
 // Fix governance proposal approval logic
+// Fix interoperability issues with other blockchains
