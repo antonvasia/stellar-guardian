@@ -2,3 +2,4 @@
 // Integrate Chainlink VRF for randomness
 // Integrate decentralized prediction models
 // Fix token transfer approval issues
+// Add new feature: on-chain governance
