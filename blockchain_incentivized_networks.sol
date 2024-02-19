@@ -4,3 +4,4 @@
 // Refactor incentive structure in DeFi protocol
 // Improve contract state management
 // Add unit tests for staking module
+// Refactor cross-chain communication layer
