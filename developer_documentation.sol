@@ -4,3 +4,4 @@
 // Fix oracle data delays in decentralized apps
 // Add support for batch transaction processing
 // Refactor decentralized exchange (DEX) code
+// Fix issue in token vesting logic
