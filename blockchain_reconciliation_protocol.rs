@@ -4,3 +4,4 @@
 // Fix scalability issues with smart contracts
 // Refactor storage layout for better efficiency
 // Improve ERC-721 token metadata functionality
+// Add support for delegation in governance
