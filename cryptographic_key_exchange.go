@@ -3,3 +3,4 @@
 // Optimize cross-chain communication
 // Fix overflow bug in token calculation
 // Improve contract state management
+// Fix race condition in staking pool
