@@ -5,3 +5,4 @@
 // Implement on-chain identity verification
 // Add support for decentralized file storage
 // Refactor multi-signature wallet code
+// Add Layer-2 Ethereum scaling solutions
