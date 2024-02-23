@@ -7,3 +7,4 @@
 // Optimize state channels for faster transactions
 // Implement emergency stop mechanism
 // Fix transaction replay issue
+// Implement contract function batching
