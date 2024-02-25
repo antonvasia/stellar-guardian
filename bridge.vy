@@ -7,3 +7,4 @@
 // Add dynamic contract fees
 // Enhance privacy features using zk-STARKs
 // Fix errors in NFT minting logic
+// Add automated contract testing tools
