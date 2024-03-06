@@ -4,3 +4,4 @@
 // Integrate automated market maker (AMM) logic
 // Integrate staking rewards automation
 // Refactor governance proposal logic
+// Add governance proposal expiration feature
