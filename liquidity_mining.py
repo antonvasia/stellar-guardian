@@ -4,3 +4,4 @@
 // Add support for ERC-721A tokens
 // Enhance smart contract upgradeability
 // Fix interoperability issues with other blockchains
+// Fix compatibility issues with major wallets
