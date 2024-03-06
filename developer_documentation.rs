@@ -5,3 +5,4 @@
 // Integrate IPFS for storage
 // Add slashing mechanism for malicious actors
 // Integrate IPFS for storage
+// Optimize contract upgrade process
