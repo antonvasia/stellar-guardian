@@ -4,3 +4,4 @@
 // Enhance smart contract state changes monitoring
 // Integrate zk-rollups for scaling
 // Fix overflow bug in token calculation
+// Optimize storage for off-chain data
