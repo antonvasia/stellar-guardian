@@ -5,3 +5,4 @@
 // Implement on-chain identity verification
 // Add batch transaction capabilities
 // Enhance privacy features using zk-STARKs
+// Add support for cross-chain bridges
