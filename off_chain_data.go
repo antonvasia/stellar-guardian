@@ -4,3 +4,4 @@
 // Fix issues with token vesting contracts
 // Fix transaction replay issue
 // Fix overflow bug in token calculation
+// Add governance proposal expiration feature
