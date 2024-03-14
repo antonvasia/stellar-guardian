@@ -2,3 +2,4 @@
 // Implement liquidity pool staking mechanism
 // Optimize token burn process
 // Implement price feed oracles for tokens
+// Bugfix: incorrect reward calculation
