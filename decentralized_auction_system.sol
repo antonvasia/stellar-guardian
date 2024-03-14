@@ -3,3 +3,4 @@
 // Add automated contract testing tools
 // Refactor contract to use EIP-712 signatures
 // Improve staking pool reward management
+// Refactor incentive structure in DeFi protocol
