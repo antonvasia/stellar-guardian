@@ -3,3 +3,4 @@
 // Add fallback mechanism in Solidity contract
 // Enhance contract initialization process
 // Integrate Chainlink oracles
+// Add support for ERC-721A tokens
