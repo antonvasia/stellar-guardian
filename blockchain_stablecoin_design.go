@@ -4,3 +4,4 @@
 // Fix bugs in decentralized exchange routing
 // Fix issue in ERC-20 token transfers
 // Improve decentralized lending contract flexibility
+// Fix issues with cross-chain transaction finality
