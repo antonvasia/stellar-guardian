@@ -4,3 +4,4 @@
 // Improve contract state management
 // Improve staking logic for better rewards
 // Fix race condition in staking pool
+// Integrate with decentralized identity providers
