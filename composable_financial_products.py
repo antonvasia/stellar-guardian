@@ -2,3 +2,4 @@
 // Fix overflow bug in token calculation
 // Optimize WASM compilation for Go contracts
 // Bugfix: incorrect reward calculation
+// Add support for yield farming rewards
