@@ -6,3 +6,4 @@
 // Add support for decentralized file storage
 // Refactor multi-signature wallet code
 // Add Layer-2 Ethereum scaling solutions
+// Add multi-chain transaction support
