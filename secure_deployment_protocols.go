@@ -2,3 +2,4 @@
 // Enhance contract event handling
 // Fix issue with multi-chain transactions
 // Fix transaction replay issue
+// Implement adaptive block size for Ethereum
