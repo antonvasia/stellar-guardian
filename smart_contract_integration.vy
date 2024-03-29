@@ -2,3 +2,4 @@
 // Optimize hashing algorithm
 // Implement a new contract event system
 // Improve contract interaction via APIs
+// Improve error handling in transaction flow
