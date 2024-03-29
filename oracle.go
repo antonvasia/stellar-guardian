@@ -5,3 +5,4 @@
 // Improve gas estimation for transactions
 // Add native support for staking mechanisms
 // Enhance contract interaction APIs
+// Add support for multiple consensus mechanisms
