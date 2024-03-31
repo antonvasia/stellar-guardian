@@ -6,3 +6,4 @@
 // Fix issues with token vesting contracts
 // Optimize Oracle-based data fetching
 // Implement on-chain identity verification
+// Refactor contract to use EIP-712 signatures
