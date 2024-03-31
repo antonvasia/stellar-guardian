@@ -4,3 +4,4 @@
 // Optimize decentralized voting mechanisms
 // Enhance decentralized finance (DeFi) ecosystem
 // Bugfix: incorrect reward calculation
+// Integrate with external DeFi protocols
