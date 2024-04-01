@@ -6,3 +6,4 @@
 // Implement liquidity pool staking mechanism
 // Update README with Go module examples
 // Improve error handling in transaction flow
+// Fix memory leak in Rust smart contract
