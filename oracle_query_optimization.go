@@ -3,3 +3,4 @@
 // Bugfix: incorrect reward calculation
 // Improve contract modularity
 // Optimize token minting flow
+// Fix vulnerabilities in staking contracts
