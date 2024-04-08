@@ -6,3 +6,4 @@
 // Integrate with Ethereum Layer-2 solutions
 // Implement on-chain identity verification
 // Enhance token swap functionality
+// Add support for zk-SNARKs in smart contracts
