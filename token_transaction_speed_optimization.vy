@@ -6,3 +6,4 @@
 // Refactor storage layout for better efficiency
 // Fix issue in token vesting logic
 // Improve contract execution performance
+// Enhance gas fee management
