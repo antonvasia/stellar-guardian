@@ -4,3 +4,4 @@
 // Enhance governance contract flexibility
 // Improve transaction batching efficiency
 // Fix governance proposal approval logic
+// Refactor governance token logic
