@@ -6,3 +6,4 @@
 // Enhance test coverage for Rust module
 // Refactor governance proposal logic
 // Add support for DeFi lending protocols
+// Add new feature: on-chain governance
