@@ -3,3 +3,4 @@
 // Add support for cross-chain bridges
 // Optimize token burn process
 // Refactor token distribution mechanism
+// Improve smart contract logging
