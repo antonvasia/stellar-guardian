@@ -5,3 +5,4 @@
 // Fix issues with token transfer confirmations
 // Fix deserialization bug in Haskell code
 // Refactor governance token logic
+// Refactor contract state machine design
