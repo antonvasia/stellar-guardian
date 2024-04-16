@@ -4,3 +4,4 @@
 // Code cleanup and documentation update
 // Fix interoperability issues with other blockchains
 // Improve transaction batching efficiency
+// Fix overflow bug in token calculation
