@@ -3,3 +3,4 @@
 // Fix errors in NFT minting logic
 // Add multi-sig wallet functionality
 // Improve contract state management
+// Improve gas estimation for transactions
