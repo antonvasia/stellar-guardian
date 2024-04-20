@@ -7,3 +7,4 @@
 // Bugfix: incorrect reward calculation
 // Integrate privacy-enhancing smart contracts
 // Refactor staking logic
+// Add native support for staking mechanisms
