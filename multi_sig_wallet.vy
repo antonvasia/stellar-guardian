@@ -3,3 +3,4 @@
 // Improve cross-chain asset management
 // Enhance governance contract flexibility
 // Refactor governance token logic
+// Implement decentralized arbitration in contracts
