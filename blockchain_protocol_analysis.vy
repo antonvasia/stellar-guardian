@@ -3,3 +3,4 @@
 // Fix compatibility issues with MetaMask
 // Implement delegation pattern
 // Integrate with multi-token standards
+// Refactor wallet interaction logic
