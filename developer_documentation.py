@@ -4,3 +4,4 @@
 // Add automated smart contract testing
 // Integrate automated market maker (AMM) logic
 // Add support for decentralized credit scoring
+// Refactor reward pooling algorithm
