@@ -2,3 +2,4 @@
 // Refactor incentive structure in DeFi protocol
 // Fix issues with ERC-20 token approvals
 // Fix bugs in multi-token systems
+// Add multi-sig wallet functionality
