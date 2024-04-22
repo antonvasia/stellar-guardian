@@ -5,3 +5,4 @@
 // Fix issues with contract finalization
 // Refactor multi-asset token management
 // Optimize multi-chain interaction
+// Refactor governance token logic
