@@ -2,3 +2,4 @@
 // Implement price feed oracles for tokens
 // Enhance contract initialization process
 // Fix transaction replay issue
+// Refactor oracle interaction logic
