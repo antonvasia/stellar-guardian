@@ -5,3 +5,4 @@
 // Add multi-sig wallet functionality
 // Add support for DeFi lending protocols
 // Refactor smart contract testing framework
+// Fix race condition in staking pool
