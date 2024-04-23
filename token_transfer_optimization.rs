@@ -3,3 +3,4 @@
 // Implement liquidity pool staking mechanism
 // Fix issue in ERC-20 token transfers
 // Update smart contract tests
+// Implement adaptive block size for Ethereum
