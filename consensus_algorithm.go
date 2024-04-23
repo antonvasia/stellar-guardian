@@ -5,3 +5,4 @@
 // Update smart contract tests
 // Add batch processing for transactions
 // Add native support for staking mechanisms
+// Implement liquidity pool staking mechanism
