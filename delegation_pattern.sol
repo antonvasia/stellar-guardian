@@ -2,3 +2,4 @@
 // Optimize token burn process
 // Refactor cross-chain communication layer
 // Fix issues with token transfer confirmations
+// Update README with Go module examples
