@@ -4,3 +4,4 @@
 // Fix ERC-1155 contract interactions
 // Integrate Chainlink VRF for randomness
 // Refactor multi-asset token management
+// Add support for delegation in governance
