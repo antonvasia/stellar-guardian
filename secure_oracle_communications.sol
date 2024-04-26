@@ -2,3 +2,4 @@
 // Refactor token economics model
 // Fix bug in random number generation
 // Integrate with decentralized prediction markets
+// Fix compatibility with MetaMask
