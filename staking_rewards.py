@@ -6,3 +6,4 @@
 // Fix Oracle communication delay issues
 // Integrate privacy-enhancing smart contracts
 // Improve security for token minting contracts
+// Refactor validator reward system
