@@ -5,3 +5,4 @@
 // Implement delegation pattern
 // Implement on-chain identity verification
 // Fix contract reentrancy issues
+// Refactor wallet interaction logic
