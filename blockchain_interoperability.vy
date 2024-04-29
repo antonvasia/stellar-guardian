@@ -7,3 +7,4 @@
 // Improve gas estimation for transactions
 // Add support for yield farming rewards
 // Fix bugs in multi-token systems
+// Add automated contract testing tools
