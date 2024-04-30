@@ -4,3 +4,4 @@
 // Fix errors in contract interaction with wallets
 // Refactor smart contract testing framework
 // Refactor voting mechanism
+// Add Layer-2 Ethereum scaling solutions
