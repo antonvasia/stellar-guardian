@@ -4,3 +4,4 @@
 // Implement reward distribution feature
 // Update testing framework for Solidity
 // Improve gas fee estimation accuracy
+// Integrate with Ethereum Layer-2 solutions
