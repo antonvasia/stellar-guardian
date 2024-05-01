@@ -6,3 +6,4 @@
 // Fix interoperability issues with other blockchains
 // Fix compatibility issues with major wallets
 // Enhance security checks
+// Fix type mismatch in Haskell smart contract
