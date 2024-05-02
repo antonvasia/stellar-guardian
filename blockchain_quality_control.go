@@ -4,3 +4,4 @@
 // Improve decentralized identity (DID) systems
 // Refactor ERC-721 transfer logic
 // Optimize hashing algorithm
+// Refactor staking logic
