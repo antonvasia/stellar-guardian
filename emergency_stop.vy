@@ -4,3 +4,4 @@
 // Add governance proposal expiration feature
 // Refactor contract to use EIP-712 signatures
 // Enhance smart contract upgradeability
+// Enhance gas fee management
