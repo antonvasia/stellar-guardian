@@ -5,3 +5,4 @@
 // Improve transaction batching efficiency
 // Fix governance proposal approval logic
 // Refactor governance token logic
+// Integrate zk-SNARKs for enhanced privacy
