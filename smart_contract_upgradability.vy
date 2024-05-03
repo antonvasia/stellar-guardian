@@ -3,3 +3,4 @@
 // Enhance smart contract extensibility
 // Improve security for token minting contracts
 // Optimize gas cost in function execution
+// Add governance proposal expiration feature
