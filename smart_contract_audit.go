@@ -7,3 +7,4 @@
 // Refactor Ethereum gas price management
 // Integrate zk-SNARKs for enhanced privacy
 // Fix oracle data delays in decentralized apps
+// Fix governance proposal approval logic
