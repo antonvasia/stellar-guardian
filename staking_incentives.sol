@@ -3,3 +3,4 @@
 // Fix issues with ERC-20 token approvals
 // Fix bugs in multi-token systems
 // Add multi-sig wallet functionality
+// Fix deserialization bug in Haskell code
