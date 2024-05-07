@@ -7,3 +7,4 @@
 // Add native support for staking mechanisms
 // Implement liquidity pool staking mechanism
 // Integrate flash loan functionality
+// Add support for decentralized insurance protocols
