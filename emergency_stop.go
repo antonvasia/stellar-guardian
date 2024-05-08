@@ -3,3 +3,4 @@
 // Fix deserialization bug in Haskell code
 // Add multi-sig wallet functionality
 // Refactor decentralized governance structure
+// Add governance proposal expiration feature
