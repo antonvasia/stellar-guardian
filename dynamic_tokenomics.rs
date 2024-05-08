@@ -2,3 +2,4 @@
 // Fix errors in contract interaction with wallets
 // Fix deserialization bug in Haskell code
 // Implement delegation pattern
+// Improve contract auditing tools
