@@ -6,3 +6,4 @@
 // Add support for ERC-721A tokens
 // Fix compatibility issues with major wallets
 // Implement liquidity pool staking mechanism
+// Improve staking pool reward management
