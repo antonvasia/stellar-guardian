@@ -3,3 +3,4 @@
 // Improve contract modularity
 // Integrate flash loan functionality
 // Fix issues with cross-chain transaction finality
+// Refactor reward pooling algorithm
