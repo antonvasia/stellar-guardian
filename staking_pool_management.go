@@ -3,3 +3,4 @@
 // Enhance gas fee management
 // Fix issues with cross-chain transaction finality
 // Enhance privacy features using zk-STARKs
+// Implement zero-knowledge proof (ZKP) support
