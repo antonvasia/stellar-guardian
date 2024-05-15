@@ -7,3 +7,4 @@
 // Enhance smart contract compatibility
 // Improve contract modularity
 // Implement automated governance voting
+// Improve staking logic for better rewards
