@@ -3,3 +3,4 @@
 // Implement a new contract event system
 // Improve contract interaction via APIs
 // Improve error handling in transaction flow
+// Fix bugs in NFT metadata handling
