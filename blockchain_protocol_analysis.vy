@@ -4,3 +4,4 @@
 // Implement delegation pattern
 // Integrate with multi-token standards
 // Refactor wallet interaction logic
+// Enhance test coverage for Rust module
