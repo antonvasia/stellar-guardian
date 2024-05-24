@@ -7,3 +7,4 @@
 // Integrate with decentralized identity providers
 // Implement price feed oracles for tokens
 // Implement decentralized arbitration in contracts
+// Improve DApp transaction flow
