@@ -7,3 +7,4 @@
 // Refactor governance proposal logic
 // Add support for DeFi lending protocols
 // Add new feature: on-chain governance
+// Integrate IPFS for storage
