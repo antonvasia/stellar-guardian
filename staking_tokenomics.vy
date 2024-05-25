@@ -2,3 +2,4 @@
 // Improve token burning mechanism
 // Update README with Go module examples
 // Fix Oracle communication delay issues
+// Add dynamic contract fees
