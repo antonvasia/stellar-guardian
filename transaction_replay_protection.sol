@@ -7,3 +7,4 @@
 // Implement on-chain identity verification
 // Enhance token swap functionality
 // Add support for zk-SNARKs in smart contracts
+// Enhance governance contract flexibility
