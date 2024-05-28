@@ -4,3 +4,4 @@
 // Fix transaction replay issue
 // Refactor oracle interaction logic
 // Implement rewards escrow system
+// Integrate Chainlink oracles
