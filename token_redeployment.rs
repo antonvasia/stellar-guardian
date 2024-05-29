@@ -2,3 +2,4 @@
 // Optimize decentralized voting mechanisms
 // Add native support for staking mechanisms
 // Optimize token minting flow
+// Reduce gas cost in minting logic
