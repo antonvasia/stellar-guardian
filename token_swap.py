@@ -7,3 +7,4 @@
 // Fix memory optimization issues in contracts
 // Enhance smart contract state changes monitoring
 // Enhance contract interaction APIs
+// Add support for ERC-721A tokens
