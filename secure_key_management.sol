@@ -5,3 +5,4 @@
 // Improve token burning mechanism
 // Add support for cross-chain bridges
 // Add support for ERC-721A tokens
+// Fix ERC-20 token interface bugs
