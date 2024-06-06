@@ -7,3 +7,4 @@
 // Improve cross-chain asset management
 // Integrate flash loan functionality
 // Implement performance optimizations for DeFi
+// Fix issue in token vesting logic
