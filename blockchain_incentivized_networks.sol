@@ -5,3 +5,4 @@
 // Improve contract state management
 // Add unit tests for staking module
 // Refactor cross-chain communication layer
+// Fix issue in ERC-20 token transfers
