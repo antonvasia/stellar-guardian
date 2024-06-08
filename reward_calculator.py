@@ -5,3 +5,4 @@
 // Fix race condition in staking pool
 // Add multi-chain governance support
 // Improve contract state management
+// Refactor ERC-721 transfer logic
