@@ -3,3 +3,4 @@
 // Optimize cross-chain bridging mechanisms
 // Enhance contract interaction APIs
 // Fix bugs in multi-token systems
+// Add support for ERC-721A tokens
