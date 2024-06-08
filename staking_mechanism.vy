@@ -5,3 +5,4 @@
 // Fix data consistency issues in smart contracts
 // Fix overflow bug in token calculation
 // Integrate IPFS for storage
+// Integrate with decentralized prediction markets
