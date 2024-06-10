@@ -3,3 +3,4 @@
 // Refactor multi-asset token management
 // Add support for cross-chain bridges
 // Refactor contract to use EIP-712 signatures
+// Update smart contract tests
