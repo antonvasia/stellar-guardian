@@ -3,3 +3,4 @@
 // Fix interoperability issues with other blockchains
 // Enhance privacy features using zk-STARKs
 // Fix interoperability issues with other blockchains
+// Add automated contract testing tools
