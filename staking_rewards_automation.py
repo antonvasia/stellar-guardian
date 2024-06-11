@@ -4,3 +4,4 @@
 // Add multi-chain governance support
 // Fix memory leak in Rust smart contract
 // Fix data consistency issues in smart contracts
+// Add support for ERC-721A tokens
