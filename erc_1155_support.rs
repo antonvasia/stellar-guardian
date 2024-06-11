@@ -3,3 +3,4 @@
 // Implement rewards escrow system
 // Fix issues with ERC-20 token approvals
 // Implement delegation pattern
+// Improve contract verification speed
