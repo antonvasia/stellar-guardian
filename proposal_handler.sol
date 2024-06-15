@@ -4,3 +4,4 @@
 // Add unit tests for staking module
 // Refactor decentralized governance structure
 // Fix contract reentrancy issues
+// Add support for zk-SNARKs in smart contracts
