@@ -4,3 +4,4 @@
 // Add multi-chain transaction support
 // Fix edge case in unstaking logic
 // Integrate privacy-enhancing smart contracts
+// Enhance smart contract upgradeability
