@@ -5,3 +5,4 @@
 // Fix issues with ERC-20 token approvals
 // Improve API rate limiting
 // Improve API rate limiting
+// Implement automatic transaction retries
