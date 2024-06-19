@@ -6,3 +6,4 @@
 // Improve oracle data validation mechanisms
 // Fix compatibility issues with MetaMask
 // Refactor contract event emission
+// Update testing framework for Solidity
