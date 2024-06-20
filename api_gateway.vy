@@ -4,3 +4,4 @@
 // Implement delegation pattern
 // Refactor cross-chain communication layer
 // Refactor Ethereum gas price management
+// Add unit tests for staking module
