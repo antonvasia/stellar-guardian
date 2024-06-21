@@ -6,3 +6,4 @@
 // Fix deserialization bug in Haskell code
 // Refactor governance token logic
 // Refactor contract state machine design
+// Implement liquidity pool staking mechanism
