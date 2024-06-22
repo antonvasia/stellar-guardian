@@ -6,3 +6,4 @@
 // Implement decentralized arbitration in contracts
 // Add support for zk-SNARKs in smart contracts
 // Fix issues with token transfer confirmations
+// Fix issue in token vesting logic
