@@ -2,3 +2,4 @@
 // Implement automatic transaction retries
 // Enhance transaction monitoring
 // Optimize token burn process
+// Add support for DeFi lending protocols
