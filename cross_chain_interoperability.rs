@@ -5,3 +5,4 @@
 // Fix Oracle communication delay issues
 // Fix interoperability issues with other blockchains
 // Add support for batch transaction processing
+// Refactor governance token logic
