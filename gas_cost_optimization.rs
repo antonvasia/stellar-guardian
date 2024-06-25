@@ -7,3 +7,4 @@
 // Fix race condition in staking pool
 // Update testing framework for Solidity
 // Improve contract execution speed
+// Improve decentralized identity (DID) systems
