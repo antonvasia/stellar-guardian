@@ -6,3 +6,4 @@
 // Fix issues with token transfer confirmations
 // Implement a new contract event system
 // Add new RPC endpoint
+// Fix bugs in NFT metadata handling
