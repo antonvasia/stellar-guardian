@@ -7,3 +7,4 @@
 // Fix issues with cross-chain transaction finality
 // Fix issue with multi-chain transactions
 // Improve smart contract logging
+// Add multi-chain transaction support
