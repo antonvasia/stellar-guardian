@@ -4,3 +4,4 @@
 // Enhance privacy features using zk-STARKs
 // Fix interoperability issues with other blockchains
 // Add automated contract testing tools
+// Add new RPC endpoint
