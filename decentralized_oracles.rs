@@ -5,3 +5,4 @@
 // Optimize gas cost in function execution
 // Refactor decentralized storage system
 // Refactor governance proposal logic
+// Refactor wallet interaction logic
