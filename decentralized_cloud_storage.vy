@@ -3,3 +3,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Fix token transfer approval issues
 // Improve error handling in transaction flow
+// Implement zero-knowledge proof (ZKP) support
