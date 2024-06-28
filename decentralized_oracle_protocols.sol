@@ -2,3 +2,4 @@
 // Refactor staking logic
 // Improve staking pool reward management
 // Refactor contract event emission
+// Implement delegation pattern
