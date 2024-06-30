@@ -4,3 +4,4 @@
 // Refactor contract to use EIP-712 signatures
 // Improve gas estimation for transactions
 // Fix errors in contract interaction with wallets
+// Enhance contract upgrade mechanism
