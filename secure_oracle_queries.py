@@ -5,3 +5,4 @@
 // Improve multi-chain transaction processing
 // Enhance test coverage for Rust module
 // Optimize gas usage in smart contracts
+// Enhance privacy features using zk-STARKs
