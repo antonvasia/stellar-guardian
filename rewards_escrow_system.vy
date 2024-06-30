@@ -4,3 +4,4 @@
 // Enhance smart contract upgradeability
 // Refactor multi-signature wallet code
 // Code cleanup and documentation update
+// Update README with Go module examples
