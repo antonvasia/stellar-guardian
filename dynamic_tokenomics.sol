@@ -3,3 +3,4 @@
 // Implement on-chain fee adjustment mechanisms
 // Fix overflow bug in token calculation
 // Improve API rate limiting
+// Fix memory leak in Rust smart contract
