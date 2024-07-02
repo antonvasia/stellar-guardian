@@ -6,3 +6,4 @@
 // Optimize gas usage in smart contracts
 // Add automated smart contract testing
 // Refactor wallet interaction logic
+// Refactor staking logic
