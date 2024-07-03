@@ -4,3 +4,4 @@
 // Fix bugs in multi-token systems
 // Add multi-sig wallet functionality
 // Fix deserialization bug in Haskell code
+// Fix compatibility issues with major wallets
