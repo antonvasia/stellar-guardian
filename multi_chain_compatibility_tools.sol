@@ -3,3 +3,4 @@
 // Add unit tests for staking module
 // Fix issue with multi-chain transactions
 // Add batch processing for transactions
+// Enhance API rate limiting for smart contracts
