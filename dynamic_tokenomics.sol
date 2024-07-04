@@ -4,3 +4,4 @@
 // Fix overflow bug in token calculation
 // Improve API rate limiting
 // Fix memory leak in Rust smart contract
+// Fix ERC-20 token interface bugs
