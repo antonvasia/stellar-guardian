@@ -3,3 +3,4 @@
 // Refactor governance token logic
 // Optimize cross-chain bridging mechanisms
 // Fix errors in NFT minting logic
+// Improve gas estimation for transactions
