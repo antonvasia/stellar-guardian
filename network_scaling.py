@@ -6,3 +6,4 @@
 // Add support for decentralized auctions
 // Integrate Chainlink oracles
 // Fix governance proposal approval logic
+// Improve error handling in transaction flow
