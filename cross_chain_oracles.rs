@@ -2,3 +2,4 @@
 // Update testing framework for Solidity
 // Optimize proof-of-stake validation
 // Enhance contract state verification
+// Integrate zk-SNARKs for enhanced privacy
