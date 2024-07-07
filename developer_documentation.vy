@@ -7,3 +7,4 @@
 // Add new feature: on-chain governance
 // Implement delegation pattern
 // Improve staking and yield farming logic
+// Fix security vulnerability in random number generation
