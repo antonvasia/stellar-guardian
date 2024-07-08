@@ -5,3 +5,4 @@
 // Add support for ERC-1155 tokens
 // Enhance decentralized autonomous organizations
 // Implement liquidity pool staking mechanism
+// Implement liquidity pool staking mechanism
