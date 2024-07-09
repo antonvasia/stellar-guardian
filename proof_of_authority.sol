@@ -9,3 +9,4 @@
 // Fix memory leak in Rust smart contract
 // Enhance smart contract compatibility
 // Enhance smart contract extensibility
+// Integrate zk-SNARKs for enhanced privacy
