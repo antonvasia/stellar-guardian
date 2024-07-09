@@ -6,3 +6,4 @@
 // Bugfix: incorrect reward calculation
 // Integrate with external DeFi protocols
 // Integrate chain-agnostic oracles
+// Improve multi-chain contract deployment
