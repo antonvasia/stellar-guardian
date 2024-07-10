@@ -4,3 +4,4 @@
 // Improve contract interaction via APIs
 // Improve error handling in transaction flow
 // Fix bugs in NFT metadata handling
+// Refactor governance proposal logic
