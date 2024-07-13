@@ -4,3 +4,4 @@
 // Add slashing mechanism for malicious actors
 // Refactor governance proposal logic
 // Enhance smart contract extensibility
+// Add support for NFT marketplaces
