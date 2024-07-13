@@ -8,3 +8,4 @@
 // Optimize contract upgrade process
 // Refactor contract state machine design
 // Fix issues in multi-token smart contracts
+// Optimize contract storage for gas reduction
