@@ -3,3 +3,4 @@
 // Optimize contract upgrade process
 // Optimize proof-of-stake validation
 // Add support for ERC-721A tokens
+// Add support for multi-signature wallet contracts
