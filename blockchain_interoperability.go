@@ -7,3 +7,4 @@
 // Fix ERC-1155 contract interactions
 // Fix errors in contract interaction with wallets
 // Implement automatic transaction retries
+// Integrate Chainlink oracles
