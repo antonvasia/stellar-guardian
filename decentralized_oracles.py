@@ -3,3 +3,4 @@
 // Integrate automated market maker (AMM) logic
 // Fix issues with token transfer confirmations
 // Implement automatic transaction retries
+// Refactor wallet interaction logic
