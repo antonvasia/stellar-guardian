@@ -6,3 +6,4 @@
 // Improve transaction batching efficiency
 // Fix overflow bug in token calculation
 // Fix ERC-20 token interface bugs
+// Refactor contract to use EIP-712 signatures
