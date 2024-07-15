@@ -8,3 +8,4 @@
 // Add support for fractional token ownership
 // Refactor multi-asset token management
 // Add governance proposal expiration feature
+// Fix type mismatch in Haskell smart contract
