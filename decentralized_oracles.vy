@@ -4,3 +4,4 @@
 // Improve on-chain governance systems
 // Optimize gas usage in smart contracts
 // Optimize hashing algorithm
+// Fix issues with ERC-20 token approvals
