@@ -11,3 +11,4 @@
 // Integrate with multi-token standards
 // Improve security in decentralized applications
 // Add multi-sig wallet functionality
+// Add Layer-2 Ethereum scaling solutions
