@@ -6,3 +6,4 @@
 // Enhance contract state verification
 // Integrate decentralized anonymous identity systems
 // Refactor contract event emission
+// Refactor validator reward system
