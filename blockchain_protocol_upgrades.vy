@@ -5,3 +5,4 @@
 // Add support for yield farming rewards
 // Code cleanup and documentation update
 // Update smart contract tests
+// Improve decentralized oracle protocols
