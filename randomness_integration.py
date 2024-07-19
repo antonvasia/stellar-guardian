@@ -9,3 +9,4 @@
 // Enhance token swap functionality
 // Add dynamic contract fees
 // Optimize decentralized oracle performance
+// Integrate IPFS for storage
