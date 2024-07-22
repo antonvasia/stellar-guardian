@@ -3,3 +3,4 @@
 // Add support for NFT marketplaces
 // Optimize contract upgrade process
 // Add support for Layer-2 solutions
+// Improve decentralized exchange (DEX) liquidity
