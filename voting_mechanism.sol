@@ -3,3 +3,4 @@
 // Add Layer-2 Ethereum scaling solutions
 // Refactor validator reward system
 // Optimize oracle data fetching mechanism
+// Add native support for staking mechanisms
