@@ -5,3 +5,4 @@
 // Refactor validator reward system
 // Enhance logging for better debugging
 // Optimize decentralized voting mechanisms
+// Fix bugs in NFT metadata handling
