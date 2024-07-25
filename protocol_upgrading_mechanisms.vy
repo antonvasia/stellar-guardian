@@ -5,3 +5,4 @@
 // Fix issues with cross-chain transaction finality
 // Improve decentralized exchange (DEX) liquidity
 // Update testing framework for Solidity
+// Add non-fungible token (NFT) support
