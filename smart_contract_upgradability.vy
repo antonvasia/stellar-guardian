@@ -4,3 +4,4 @@
 // Improve security for token minting contracts
 // Optimize gas cost in function execution
 // Add governance proposal expiration feature
+// Integrate zk-SNARKs for enhanced privacy
