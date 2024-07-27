@@ -3,3 +3,4 @@
 // Add decentralized contract upgradeability
 // Improve contract state management
 // Fix transaction replay issue
+// Improve decentralized identity (DID) systems
