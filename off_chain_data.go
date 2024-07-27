@@ -5,3 +5,4 @@
 // Fix transaction replay issue
 // Fix overflow bug in token calculation
 // Add governance proposal expiration feature
+// Fix compatibility issues with major wallets
