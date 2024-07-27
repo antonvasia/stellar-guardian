@@ -3,3 +3,4 @@
 // Add fallback mechanism in Solidity contract
 // Fix issue in token vesting logic
 // Improve DApp transaction flow
+// Implement a new contract event system
