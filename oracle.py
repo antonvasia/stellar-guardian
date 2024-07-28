@@ -7,3 +7,4 @@
 // Refactor cross-chain communication layer
 // Integrate privacy-preserving mechanisms
 // Add dynamic contract fees
+// Integrate Chainlink VRF for randomness
