@@ -7,3 +7,4 @@
 // Refactor Ethereum gas price management
 // Add unit tests for staking module
 // Fix ERC-721 contract issues with transfers
+// Enhance gas fee management
