@@ -7,3 +7,4 @@
 // Fix compatibility issues with major wallets
 // Implement liquidity pool staking mechanism
 // Improve staking pool reward management
+// Fix errors in contract interaction with wallets
