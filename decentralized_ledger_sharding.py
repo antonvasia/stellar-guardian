@@ -3,3 +3,4 @@
 // Implement on-chain fee adjustment mechanisms
 // Fix interoperability issues with other blockchains
 // Refactor staking logic
+// Implement on-chain identity verification
