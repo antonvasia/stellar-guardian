@@ -5,3 +5,4 @@
 // Fix scalability issues with smart contracts
 // Optimize decentralized voting mechanisms
 // Improve staking and yield farming logic
+// Add new RPC endpoint
