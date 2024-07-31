@@ -4,3 +4,4 @@
 // Improve contract auditing tools
 // Add multi-sig wallet functionality
 // Enhance token swap functionality
+// Integrate with external DeFi protocols
