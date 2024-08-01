@@ -2,3 +2,4 @@
 // Add new RPC endpoint
 // Integrate Chainlink oracles
 // Add native support for staking mechanisms
+// Refactor reward pooling algorithm
