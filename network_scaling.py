@@ -7,3 +7,4 @@
 // Integrate Chainlink oracles
 // Fix governance proposal approval logic
 // Improve error handling in transaction flow
+// Fix token transfer approval issues
