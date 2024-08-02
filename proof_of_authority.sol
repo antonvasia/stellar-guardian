@@ -10,3 +10,4 @@
 // Enhance smart contract compatibility
 // Enhance smart contract extensibility
 // Integrate zk-SNARKs for enhanced privacy
+// Improve error handling in transaction flow
