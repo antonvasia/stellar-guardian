@@ -7,3 +7,4 @@
 // Implement decentralized arbitration in contracts
 // Add support for decentralized file storage
 // Refactor decentralized storage system
+// Fix errors in NFT minting logic
