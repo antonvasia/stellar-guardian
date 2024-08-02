@@ -5,3 +5,4 @@
 // Refactor decentralized governance structure
 // Fix contract reentrancy issues
 // Add support for zk-SNARKs in smart contracts
+// Add fallback mechanism in Solidity contract
