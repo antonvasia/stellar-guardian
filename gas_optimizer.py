@@ -6,3 +6,4 @@
 // Add governance proposal expiration feature
 // Improve cross-chain asset management
 // Fix vulnerabilities in staking contracts
+// Refactor reward pooling algorithm
