@@ -4,3 +4,4 @@
 // Optimize token withdrawal logic
 // Add automated smart contract testing
 // Refactor governance token logic
+// Add native support for staking mechanisms
