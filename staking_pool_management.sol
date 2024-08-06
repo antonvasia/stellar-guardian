@@ -2,3 +2,4 @@
 // Implement emergency stop mechanism
 // Fix errors in contract interaction with wallets
 // Fix vulnerabilities in staking contracts
+// Fix issue with multi-chain transactions
