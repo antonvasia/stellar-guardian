@@ -4,3 +4,4 @@
 // Add multi-sig wallet functionality
 // Refactor decentralized governance structure
 // Add governance proposal expiration feature
+// Reduce gas cost in minting logic
