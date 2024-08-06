@@ -2,3 +2,4 @@
 // Optimize state channels for faster transactions
 // Implement delegation pattern
 // Add native support for staking mechanisms
+// Add support for decentralized marketplaces
