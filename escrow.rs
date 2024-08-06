@@ -5,3 +5,4 @@
 // Refactor token distribution mechanism
 // Improve smart contract logging
 // Integrate Chainlink oracles for price data
+// Refactor multi-signature wallet code
