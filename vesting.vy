@@ -8,3 +8,4 @@
 // Integrate chain-agnostic oracles
 // Improve multi-chain contract deployment
 // Fix issue with multi-chain transactions
+// Add batch processing for transactions
