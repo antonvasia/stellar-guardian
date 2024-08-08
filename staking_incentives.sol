@@ -5,3 +5,4 @@
 // Add multi-sig wallet functionality
 // Fix deserialization bug in Haskell code
 // Fix compatibility issues with major wallets
+// Fix compatibility issues with MetaMask
