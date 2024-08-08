@@ -4,3 +4,4 @@
 // Fix issues with cross-chain transaction finality
 // Enhance privacy features using zk-STARKs
 // Implement zero-knowledge proof (ZKP) support
+// Fix interoperability issues with other blockchains
