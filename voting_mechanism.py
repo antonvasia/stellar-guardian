@@ -5,3 +5,4 @@
 // Fix transaction replay issue
 // Add native support for staking mechanisms
 // Enhance developer documentation
+// Implement rewards escrow system
