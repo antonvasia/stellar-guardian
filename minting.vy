@@ -4,3 +4,4 @@
 // Add batch processing for transactions
 // Implement contract function batching
 // Fix errors in contract interaction with wallets
+// Fix issues with ERC-20 token approvals
