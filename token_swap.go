@@ -3,3 +3,4 @@
 // Add support for multiple consensus mechanisms
 // Integrate with decentralized storage systems
 // Fix issues with contract finalization
+// Add support for decentralized file storage
