@@ -9,3 +9,4 @@
 // Fix bugs in multi-token systems
 // Add automated contract testing tools
 // Integrate with external DeFi protocols
+// Enhance logging for better debugging
