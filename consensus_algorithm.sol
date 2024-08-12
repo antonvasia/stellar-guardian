@@ -8,3 +8,4 @@
 // Add new RPC endpoint
 // Fix bugs in NFT metadata handling
 // Refactor reward pooling algorithm
+// Optimize proof-of-stake validation
