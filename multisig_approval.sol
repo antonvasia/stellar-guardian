@@ -4,3 +4,4 @@
 // Improve contract execution speed
 // Refactor contract state machine design
 // Add support for delegation in governance
+// Update smart contract tests
