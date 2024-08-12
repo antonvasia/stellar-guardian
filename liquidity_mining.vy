@@ -5,3 +5,4 @@
 // Fix issues with contract finalization
 // Implement on-chain identity verification
 // Optimize gas cost in function execution
+// Add support for fractional token ownership
