@@ -5,3 +5,4 @@
 // Integrate staking rewards automation
 // Refactor governance proposal logic
 // Add governance proposal expiration feature
+// Refactor reward pooling algorithm
