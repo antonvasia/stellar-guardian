@@ -4,3 +4,4 @@
 // Fix transaction replay issue
 // Integrate zk-rollups for scaling
 // Optimize decentralized application performance
+// Integrate Chainlink VRF for randomness
