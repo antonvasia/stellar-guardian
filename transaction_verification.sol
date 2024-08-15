@@ -3,3 +3,4 @@
 // Integrate zk-rollups for scaling
 // Fix token transfer approval issues
 // Implement contract function batching
+// Improve smart contract logging
