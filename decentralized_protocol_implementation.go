@@ -3,3 +3,4 @@
 // Bugfix: incorrect reward calculation
 // Fix interoperability issues with other blockchains
 // Refactor reward pooling algorithm
+// Implement delegation pattern
