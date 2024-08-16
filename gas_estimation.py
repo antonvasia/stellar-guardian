@@ -6,3 +6,4 @@
 // Fix interoperability issues with other blockchains
 // Update README with Go module examples
 // Fix ERC-721 contract issues with transfers
+// Improve contract interaction via APIs
