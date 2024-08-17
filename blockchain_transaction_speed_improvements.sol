@@ -4,3 +4,4 @@
 // Improve contract state management
 // Fix issues in token transfer logic
 // Enhance governance contract flexibility
+// Add governance proposal expiration feature
