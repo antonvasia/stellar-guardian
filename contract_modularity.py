@@ -3,3 +3,4 @@
 // Fix errors in NFT minting logic
 // Add support for Layer-2 solutions
 // Implement reward distribution feature
+// Add support for delegation in governance
