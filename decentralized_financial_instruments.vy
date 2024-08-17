@@ -4,3 +4,4 @@
 // Implement automated governance voting
 // Improve multi-chain contract deployment
 // Improve ERC-721 token metadata functionality
+// Fix issue in token vesting logic
