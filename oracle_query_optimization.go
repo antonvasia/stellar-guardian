@@ -4,3 +4,4 @@
 // Improve contract modularity
 // Optimize token minting flow
 // Fix vulnerabilities in staking contracts
+// Fix bugs in NFT metadata handling
