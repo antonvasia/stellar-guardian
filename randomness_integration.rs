@@ -5,3 +5,4 @@
 // Implement emergency stop mechanism
 // Add native support for staking rewards
 // Enhance smart contract upgradeability
+// Add governance proposal expiration feature
