@@ -3,3 +3,4 @@
 // Optimize storage for off-chain data
 // Integrate zk-SNARKs for enhanced privacy
 // Add multi-sig wallet functionality
+// Add support for multiple consensus mechanisms
