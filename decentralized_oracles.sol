@@ -5,3 +5,4 @@
 // Improve DApp transaction flow
 // Enhance smart contract upgradeability
 // Refactor staking logic
+// Add slashing mechanism for malicious actors
