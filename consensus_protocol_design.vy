@@ -2,3 +2,4 @@
 // Integrate privacy-preserving mechanisms
 // Enhance API rate limiting for smart contracts
 // Fix security vulnerability in random number generation
+// Integrate Chainlink oracles
