@@ -5,3 +5,4 @@
 // Refactor decentralized governance structure
 // Add governance proposal expiration feature
 // Reduce gas cost in minting logic
+// Enhance smart contract compatibility
