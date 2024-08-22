@@ -4,3 +4,4 @@
 // Fix compatibility issues with major wallets
 // Fix contract reentrancy issues
 // Add multi-sig wallet functionality
+// Add support for yield farming rewards
