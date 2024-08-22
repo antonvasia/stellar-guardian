@@ -5,3 +5,4 @@
 // Refactor voting mechanism
 // Fix governance proposal approval logic
 // Fix transaction replay issue
+// Add multi-sig wallet functionality
