@@ -3,3 +3,4 @@
 // Enhance smart contract compatibility
 // Integrate with decentralized identity providers
 // Add unit tests for staking module
+// Fix overflow bug in token calculation
