@@ -5,3 +5,4 @@
 // Fix token transfer approval issues
 // Fix issues with token vesting contracts
 // Fix bugs in multi-token systems
+// Integrate IPFS for storage
