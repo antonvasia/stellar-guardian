@@ -6,3 +6,4 @@
 // Add support for ERC-721A tokens
 // Add support for ERC-1155 tokens
 // Fix interoperability issues with other blockchains
+// Fix errors in NFT minting logic
