@@ -7,3 +7,4 @@
 // Add Layer-2 Ethereum scaling solutions
 // Enhance API rate limiting for smart contracts
 // Integrate zk-rollups for scaling
+// Improve token burning mechanism
