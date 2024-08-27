@@ -5,3 +5,4 @@
 // Optimize gas usage in smart contracts
 // Add unit tests for staking module
 // Refactor reward pooling algorithm
+// Refactor decentralized exchange (DEX) code
