@@ -3,3 +3,4 @@
 // Refactor contract event emission
 // Enhance contract modularity
 // Fix edge case in unstaking logic
+// Improve smart contract code modularity
