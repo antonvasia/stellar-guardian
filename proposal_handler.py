@@ -6,3 +6,4 @@
 // Fix transaction replay issue
 // Refactor contract event emission
 // Fix type mismatch in Haskell smart contract
+// Fix interoperability issues with other blockchains
