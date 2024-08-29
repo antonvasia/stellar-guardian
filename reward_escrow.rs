@@ -6,3 +6,4 @@
 // Refactor governance proposal logic
 // Add governance proposal expiration feature
 // Refactor reward pooling algorithm
+// Refactor decentralized exchange (DEX) code
