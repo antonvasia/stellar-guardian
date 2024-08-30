@@ -5,3 +5,4 @@
 // Implement automated governance voting
 // Improve gas estimation for transactions
 // Add support for decentralized auctions
+// Improve contract interaction via APIs
