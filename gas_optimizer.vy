@@ -4,3 +4,4 @@
 // Improve ERC-721 token metadata functionality
 // Implement decentralized arbitration in contracts
 // Improve smart contract logging
+// Integrate automated market maker (AMM) logic
