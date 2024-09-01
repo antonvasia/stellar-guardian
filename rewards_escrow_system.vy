@@ -5,3 +5,4 @@
 // Refactor multi-signature wallet code
 // Code cleanup and documentation update
 // Update README with Go module examples
+// Improve smart contract logging
