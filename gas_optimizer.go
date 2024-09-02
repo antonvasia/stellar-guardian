@@ -4,3 +4,4 @@
 // Integrate IPFS for storage
 // Fix issue with multi-chain transactions
 // Implement on-chain identity verification
+// Enhance gas fee management
