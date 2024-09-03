@@ -2,3 +2,4 @@
 // Fix issue in ERC-20 token transfers
 // Add multi-sig wallet functionality
 // Improve contract creation process
+// Enhance contract event handling
