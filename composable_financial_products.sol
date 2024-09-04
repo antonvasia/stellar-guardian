@@ -3,3 +3,4 @@
 // Enhance privacy features using zk-STARKs
 // Fix issues in token transfer logic
 // Enhance smart contract upgradeability
+// Optimize gas usage for contract deployment
