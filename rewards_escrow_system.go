@@ -2,3 +2,4 @@
 // Enhance cryptographic primitives in contracts
 // Implement adaptive block size for Ethereum
 // Refactor decentralized exchange (DEX) code
+// Fix compatibility with MetaMask
