@@ -4,3 +4,4 @@
 // Implement cross-platform contract compatibility
 // Implement reward distribution feature
 // Refactor decentralized storage system
+// Fix compatibility issues with MetaMask
