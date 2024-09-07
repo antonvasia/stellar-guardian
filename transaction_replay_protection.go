@@ -4,3 +4,4 @@
 // Refactor wallet interaction logic
 // Fix overflow bug in token calculation
 // Fix issues with contract state management
+// Improve DApp transaction flow
