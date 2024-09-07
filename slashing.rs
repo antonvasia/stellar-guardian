@@ -3,3 +3,4 @@
 // Optimize multi-chain interaction
 // Refactor reward pooling algorithm
 // Fix bugs in NFT metadata handling
+// Add batch processing for transactions
