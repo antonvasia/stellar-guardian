@@ -4,3 +4,4 @@
 // Fix compatibility with MetaMask
 // Update README with Go module examples
 // Optimize hashing algorithm
+// Integrate with Ethereum Layer-2 solutions
