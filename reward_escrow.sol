@@ -3,3 +3,4 @@
 // Refactor contract to use EIP-712 signatures
 // Implement cross-platform contract compatibility
 // Refactor reward pooling algorithm
+// Fix issues with token transfer confirmations
