@@ -3,3 +3,4 @@
 // Integrate privacy-enhancing smart contracts
 // Add batch processing for transactions
 // Fix errors in NFT minting logic
+// Fix type mismatch in Haskell smart contract
