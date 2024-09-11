@@ -3,3 +3,4 @@
 // Fix governance proposal approval logic
 // Add new feature: on-chain governance
 // Enhance smart contract state changes monitoring
+// Enhance smart contract upgradeability
