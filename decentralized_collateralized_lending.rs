@@ -3,3 +3,4 @@
 // Optimize Oracle-based data fetching
 // Refactor staking logic
 // Refactor storage layout for better efficiency
+// Add decentralized contract upgradeability
