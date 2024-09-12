@@ -2,3 +2,4 @@
 // Improve decentralized identity (DID) systems
 // Add support for decentralized file storage
 // Integrate Chainlink VRF for randomness
+// Fix compatibility issues with MetaMask
