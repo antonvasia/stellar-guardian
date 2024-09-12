@@ -3,3 +3,4 @@
 // Add unit tests for staking module
 // Enhance smart contract upgradeability
 // Optimize gas usage in smart contracts
+// Enhance decentralized autonomous governance
