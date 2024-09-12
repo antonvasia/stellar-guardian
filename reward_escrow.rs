@@ -7,3 +7,4 @@
 // Add governance proposal expiration feature
 // Refactor reward pooling algorithm
 // Refactor decentralized exchange (DEX) code
+// Integrate zk-SNARKs for enhanced privacy
