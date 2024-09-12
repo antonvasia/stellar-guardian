@@ -6,3 +6,4 @@
 // Add support for multi-signature wallet contracts
 // Enhance logging for better debugging
 // Add decentralized contract upgradeability
+// Refactor governance proposal logic
