@@ -7,3 +7,4 @@
 // Enhance privacy features using zk-STARKs
 // Add support for cross-chain bridges
 // Add native support for staking mechanisms
+// Improve DApp transaction flow
