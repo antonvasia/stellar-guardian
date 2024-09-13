@@ -3,3 +3,4 @@
 // Enhance gas fee management
 // Fix issue in token vesting logic
 // Integrate flash loan functionality
+// Integrate Chainlink VRF for randomness
