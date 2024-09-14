@@ -5,3 +5,4 @@
 // Refactor validator reward system
 // Integrate decentralized anonymous identity systems
 // Optimize decentralized application performance
+// Add support for NFT marketplaces
