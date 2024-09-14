@@ -5,3 +5,4 @@
 // Add support for ERC-721A tokens
 // Implement a new contract event system
 // Implement cross-chain bridge
+// Fix errors in NFT minting logic
