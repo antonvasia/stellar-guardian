@@ -11,3 +11,4 @@
 // Optimize contract storage for gas reduction
 // Integrate zk-SNARKs for enhanced privacy
 // Bugfix: incorrect reward calculation
+// Add support for Layer-2 solutions
