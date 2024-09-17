@@ -5,3 +5,4 @@
 // Fix compatibility with MetaMask
 // Update dependencies for Vyper contract
 // Fix edge case in unstaking logic
+// Refactor reward pooling algorithm
