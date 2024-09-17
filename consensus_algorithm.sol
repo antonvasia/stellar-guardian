@@ -9,3 +9,4 @@
 // Fix bugs in NFT metadata handling
 // Refactor reward pooling algorithm
 // Optimize proof-of-stake validation
+// Integrate zk-rollups for scaling
