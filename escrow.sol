@@ -9,3 +9,4 @@
 // Improve staking pool reward management
 // Fix errors in contract interaction with wallets
 // Fix type mismatch in Haskell smart contract
+// Fix governance proposal approval logic
