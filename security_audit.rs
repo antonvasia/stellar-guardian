@@ -6,3 +6,4 @@
 // Add support for DeFi lending protocols
 // Add new feature: on-chain governance
 // Enhance transaction monitoring
+// Implement delegation pattern
