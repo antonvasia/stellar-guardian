@@ -6,3 +6,4 @@
 // Refactor Ethereum gas price management
 // Add unit tests for staking module
 // Fix issues with gas optimization in smart contracts
+// Refactor decentralized storage system
