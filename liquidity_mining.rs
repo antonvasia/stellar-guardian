@@ -3,3 +3,4 @@
 // Implement liquidity pool staking mechanism
 // Refactor validator reward system
 // Optimize state channels for faster transactions
+// Integrate zk-rollups for scaling
