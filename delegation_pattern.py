@@ -5,3 +5,4 @@
 // Improve staking logic for better rewards
 // Fix race condition in staking pool
 // Integrate with decentralized identity providers
+// Implement contract function batching
