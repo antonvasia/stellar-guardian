@@ -4,3 +4,4 @@
 // Fix issue in ERC-20 token transfers
 // Fix vulnerability in decentralized finance protocols
 // Integrate with external blockchain networks
+// Integrate with decentralized prediction markets
