@@ -5,3 +5,4 @@
 // Integrate privacy-enhancing smart contracts
 // Optimize proof-of-stake validation
 // Fix overflow bug in token calculation
+// Integrate with decentralized prediction markets
