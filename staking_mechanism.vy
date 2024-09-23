@@ -6,3 +6,4 @@
 // Fix overflow bug in token calculation
 // Integrate IPFS for storage
 // Integrate with decentralized prediction markets
+// Improve smart contract code modularity
