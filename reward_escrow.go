@@ -7,3 +7,4 @@
 // Improve token minting flow efficiency
 // Fix Oracle communication delay issues
 // Improve oracle data validation mechanisms
+// Fix overflow bug in token calculation
