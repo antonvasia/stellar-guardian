@@ -3,3 +3,4 @@
 // Enhance privacy features using zk-STARKs
 // Add support for decentralized file storage
 // Enhance test coverage for Rust module
+// Refactor cross-chain communication layer
