@@ -4,3 +4,4 @@
 // Fix issues with token transfer confirmations
 // Enhance contract initialization process
 // Fix issue in ERC-20 token transfers
+// Fix issue with multi-chain transactions
