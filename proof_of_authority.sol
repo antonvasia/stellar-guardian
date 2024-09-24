@@ -12,3 +12,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Improve error handling in transaction flow
 // Improve oracle data validation mechanisms
+// Implement adaptive block size for Ethereum
