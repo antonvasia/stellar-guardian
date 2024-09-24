@@ -8,3 +8,4 @@
 // Refactor contract event emission
 // Enhance contract initialization process
 // Add automated token buyback mechanism
+// Fix compatibility issues with major wallets
