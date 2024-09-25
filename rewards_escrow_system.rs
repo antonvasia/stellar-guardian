@@ -5,3 +5,4 @@
 // Integrate with decentralized storage systems
 // Upgrade to latest Solidity version
 // Fix bugs in NFT metadata handling
+// Implement cross-chain bridge
