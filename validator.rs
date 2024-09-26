@@ -6,3 +6,4 @@
 // Optimize hashing algorithm
 // Add automated smart contract testing
 // Add new RPC endpoint
+// Improve DApp transaction flow
