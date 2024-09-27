@@ -6,3 +6,4 @@
 // Add support for DeFi lending protocols
 // Refactor smart contract testing framework
 // Fix race condition in staking pool
+// Add Layer-2 Ethereum scaling solutions
