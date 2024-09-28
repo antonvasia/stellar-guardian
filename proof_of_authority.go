@@ -8,3 +8,4 @@
 // Integrate with external blockchain networks
 // Fix interoperability issues with other blockchains
 // Enhance gas fee management
+// Add native support for staking rewards
