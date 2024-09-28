@@ -6,3 +6,4 @@
 // Improve contract auditing tools
 // Improve transaction batching efficiency
 // Enhance contract upgrade process
+// Improve DApp transaction flow
