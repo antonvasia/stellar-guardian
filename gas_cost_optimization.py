@@ -6,3 +6,4 @@
 // Implement a new contract event system
 // Implement cross-chain bridge
 // Fix errors in NFT minting logic
+// Refactor voting mechanism
