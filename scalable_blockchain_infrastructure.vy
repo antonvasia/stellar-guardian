@@ -3,3 +3,4 @@
 // Implement rewards escrow system
 // Enhance contract upgrade mechanism
 // Optimize token burn process
+// Fix issues with token vesting contracts
