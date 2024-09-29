@@ -7,3 +7,4 @@
 // Add support for Layer-2 solutions
 // Enhance transaction monitoring
 // Optimize hashing algorithm
+// Enhance smart contract state changes monitoring
