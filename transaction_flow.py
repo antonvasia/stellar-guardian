@@ -6,3 +6,4 @@
 // Refactor staking logic
 // Implement delegation pattern
 // Fix issues with token vesting contracts
+// Update testing framework for Solidity
