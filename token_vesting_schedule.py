@@ -4,3 +4,4 @@
 // Improve scalability for smart contract platforms
 // Integrate with decentralized prediction markets
 // Implement liquidity pool staking mechanism
+// Fix overflow bug in token calculation
