@@ -3,3 +3,4 @@
 // Refactor voting mechanism
 // Add non-fungible token (NFT) support
 // Improve token burning mechanism
+// Improve contract state management
