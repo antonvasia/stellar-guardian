@@ -6,3 +6,4 @@
 // Enhance test coverage for Rust module
 // Optimize decentralized voting mechanisms
 // Enhance governance contract flexibility
+// Add support for ERC-1155 tokens
