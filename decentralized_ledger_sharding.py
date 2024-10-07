@@ -4,3 +4,4 @@
 // Fix interoperability issues with other blockchains
 // Refactor staking logic
 // Implement on-chain identity verification
+// Fix compatibility issues with MetaMask
