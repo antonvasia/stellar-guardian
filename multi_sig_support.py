@@ -5,3 +5,4 @@
 // Integrate Chainlink VRF for randomness
 // Refactor multi-asset token management
 // Add support for delegation in governance
+// Fix security vulnerability in random number generation
