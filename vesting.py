@@ -9,3 +9,4 @@
 // Enhance contract event handling
 // Improve staking logic for better rewards
 // Enhance contract modularity for future upgrades
+// Add support for multi-signature wallet contracts
