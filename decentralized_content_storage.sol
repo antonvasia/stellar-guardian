@@ -2,3 +2,4 @@
 // Fix compatibility with MetaMask
 // Upgrade to latest Solidity version
 // Add automated token buyback mechanism
+// Refactor cross-chain communication layer
