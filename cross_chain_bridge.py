@@ -5,3 +5,4 @@
 // Enhance off-chain data processing
 // Integrate Chainlink oracles for price data
 // Fix ERC-721 contract issues with transfers
+// Add fallback mechanism in Solidity contract
