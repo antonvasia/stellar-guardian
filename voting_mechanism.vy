@@ -8,3 +8,4 @@
 // Add support for cross-chain bridges
 // Add native support for staking mechanisms
 // Improve DApp transaction flow
+// Refactor wallet interaction logic
