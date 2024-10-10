@@ -3,3 +3,4 @@
 // Optimize state channels for faster transactions
 // Add dynamic contract upgrade mechanisms
 // Add support for ERC-1155 tokens
+// Refactor staking logic
