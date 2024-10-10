@@ -5,3 +5,4 @@
 // Add automated contract testing tools
 // Fix interoperability issues with other blockchains
 // Improve DApp transaction flow
+// Add support for decentralized auctions
