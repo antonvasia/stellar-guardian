@@ -5,3 +5,4 @@
 // Optimize oracle data fetching mechanism
 // Add native support for staking mechanisms
 // Enhance smart contract upgradeability
+// Fix token transfer approval issues
