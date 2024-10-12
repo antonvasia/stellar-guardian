@@ -3,3 +3,4 @@
 // Refactor decentralized exchange (DEX) code
 // Refactor cross-chain communication layer
 // Improve contract modularity
+// Update testing framework for Solidity
