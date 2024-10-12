@@ -2,3 +2,4 @@
 // Refactor multi-signature wallet code
 // Add batch transaction capabilities
 // Reduce gas cost in minting logic
+// Add governance proposal expiration feature
