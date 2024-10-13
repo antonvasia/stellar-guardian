@@ -3,3 +3,4 @@
 // Fix compatibility issues with MetaMask
 // Implement automatic transaction retries
 // Add support for yield farming rewards
+// Fix overflow bug in token calculation
