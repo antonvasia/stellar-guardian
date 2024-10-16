@@ -6,3 +6,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Update testing framework for Solidity
 // Add non-fungible token (NFT) support
+// Add support for multiple consensus mechanisms
