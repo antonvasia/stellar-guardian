@@ -8,3 +8,4 @@
 // Fix compatibility issues with MetaMask
 // Integrate chain-agnostic oracles
 // Improve token minting flow efficiency
+// Fix issues with gas optimization in smart contracts
