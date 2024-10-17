@@ -4,3 +4,4 @@
 // Improve gas fee estimation accuracy
 // Add multi-sig wallet functionality
 // Refactor Ethereum gas price management
+// Add batch processing for transactions
