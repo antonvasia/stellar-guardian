@@ -7,3 +7,4 @@
 // Add automated smart contract testing
 // Reduce gas cost in minting logic
 // Fix ERC-20 token interface bugs
+// Integrate with external DeFi protocols
