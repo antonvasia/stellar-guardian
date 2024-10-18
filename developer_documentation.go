@@ -8,3 +8,4 @@
 // Add unit tests for staking module
 // Fix ERC-721 contract issues with transfers
 // Enhance gas fee management
+// Enhance contract event handling
