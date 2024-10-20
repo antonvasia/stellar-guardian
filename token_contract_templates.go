@@ -5,3 +5,4 @@
 // Integrate multi-chain liquidity pools
 // Fix issue with multi-chain transactions
 // Improve contract creation process
+// Optimize WASM compilation for Go contracts
