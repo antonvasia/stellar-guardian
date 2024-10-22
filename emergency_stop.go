@@ -6,3 +6,4 @@
 // Add governance proposal expiration feature
 // Reduce gas cost in minting logic
 // Enhance smart contract compatibility
+// Refactor contract to use EIP-712 signatures
