@@ -7,3 +7,4 @@
 // Add dynamic contract fees
 // Enhance privacy features using zk-STARKs
 // Improve API rate limiting
+// Refactor staking logic
