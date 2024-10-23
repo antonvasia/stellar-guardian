@@ -7,3 +7,4 @@
 // Add new feature: on-chain governance
 // Enhance transaction monitoring
 // Implement delegation pattern
+// Integrate IPFS for storage
