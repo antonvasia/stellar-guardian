@@ -3,3 +3,4 @@
 // Enhance security checks
 // Refactor reward pooling algorithm
 // Enhance token swap functionality
+// Refactor decentralized governance structure
