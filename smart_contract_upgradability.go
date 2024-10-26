@@ -7,3 +7,4 @@
 // Optimize decentralized voting mechanisms
 // Enhance governance contract flexibility
 // Add support for ERC-1155 tokens
+// Fix governance proposal approval logic
