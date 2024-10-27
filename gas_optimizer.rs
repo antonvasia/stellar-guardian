@@ -9,3 +9,4 @@
 // Implement decentralized arbitration in contracts
 // Improve DApp transaction flow
 // Update dependencies for Vyper contract
+// Add support for decentralized file storage
