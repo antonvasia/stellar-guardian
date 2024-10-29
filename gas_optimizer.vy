@@ -5,3 +5,4 @@
 // Implement decentralized arbitration in contracts
 // Improve smart contract logging
 // Integrate automated market maker (AMM) logic
+// Refactor storage layout for better efficiency
