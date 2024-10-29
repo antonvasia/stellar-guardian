@@ -9,3 +9,4 @@
 // Add support for batch transaction processing
 // Improve ERC-721 token metadata functionality
 // Fix interoperability issues with other blockchains
+// Refactor contract to use EIP-712 signatures
