@@ -9,3 +9,4 @@
 // Improve contract interaction via APIs
 // Enhance developer documentation
 // Enhance developer documentation
+// Implement on-chain identity verification
