@@ -5,3 +5,4 @@
 // Implement automatic transaction retries
 // Refactor wallet interaction logic
 // Refactor incentive structure in DeFi protocol
+// Refactor incentive structure in DeFi protocol
