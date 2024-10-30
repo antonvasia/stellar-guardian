@@ -3,3 +3,4 @@
 // Fix oracle data delays in decentralized apps
 // Improve decentralized exchange (DEX) liquidity
 // Integrate with decentralized identity providers
+// Add support for multiple consensus mechanisms
