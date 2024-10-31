@@ -6,3 +6,4 @@
 // Optimize cross-chain communication
 // Enhance governance contract flexibility
 // Improve multi-chain transaction processing
+// Fix compatibility with MetaMask
