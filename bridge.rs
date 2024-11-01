@@ -4,3 +4,4 @@
 // Add slashing mechanism for malicious actors
 // Integrate flash loan functionality
 // Enhance contract interaction APIs
+// Add support for multi-signature wallet contracts
