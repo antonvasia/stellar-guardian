@@ -5,3 +5,4 @@
 // Fix overflow bug in token calculation
 // Improve token burning mechanism
 // Implement a new contract event system
+// Refactor contract to use EIP-712 signatures
