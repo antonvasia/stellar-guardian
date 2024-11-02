@@ -13,3 +13,4 @@
 // Bugfix: incorrect reward calculation
 // Add support for Layer-2 solutions
 // Refactor storage layout for better efficiency
+// Fix issue in ERC-20 token transfers
