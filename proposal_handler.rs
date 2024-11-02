@@ -7,3 +7,4 @@
 // Refactor incentive structure in DeFi protocol
 // Refactor validator reward system
 // Fix issue with multi-chain transactions
+// Implement price feed oracles for tokens
