@@ -5,3 +5,4 @@
 // Implement reward distribution feature
 // Refactor decentralized storage system
 // Fix compatibility issues with MetaMask
+// Fix contract reentrancy issues
