@@ -5,3 +5,4 @@
 // Improve oracle data validation mechanisms
 // Optimize contract storage for gas reduction
 // Refactor validator reward system
+// Optimize gas usage for contract deployment
