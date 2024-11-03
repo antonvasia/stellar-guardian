@@ -6,3 +6,4 @@
 // Improve contract interaction via APIs
 // Integrate Chainlink VRF for randomness
 // Add non-fungible token (NFT) support
+// Integrate chain-agnostic oracles
