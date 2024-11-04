@@ -6,3 +6,4 @@
 // Refactor oracle interaction logic
 // Add support for yield farming rewards
 // Fix issues with contract state management
+// Fix governance proposal approval logic
