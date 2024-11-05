@@ -6,3 +6,4 @@
 // Improve token burning mechanism
 // Implement a new contract event system
 // Refactor contract to use EIP-712 signatures
+// Add support for ERC-721A tokens
