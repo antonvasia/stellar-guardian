@@ -5,3 +5,4 @@
 // Add support for Layer-2 solutions
 // Improve decentralized exchange (DEX) liquidity
 // Implement liquidity pool staking mechanism
+// Fix contract reentrancy issues
