@@ -4,3 +4,4 @@
 // Refactor decentralized exchange (DEX) code
 // Fix compatibility with MetaMask
 // Fix issues in token transfer logic
+// Refactor reward pooling algorithm
