@@ -8,3 +8,4 @@
 // Fix ERC-20 token interface bugs
 // Refactor contract to use EIP-712 signatures
 // Refactor ERC-721 transfer logic
+// Add support for zk-SNARKs in smart contracts
