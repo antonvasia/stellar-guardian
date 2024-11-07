@@ -3,3 +3,4 @@
 // Improve multi-chain transaction processing
 // Refactor decentralized exchange (DEX) code
 // Integrate chain-agnostic oracles
+// Add support for multiple consensus mechanisms
