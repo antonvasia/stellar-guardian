@@ -2,3 +2,4 @@
 // Refactor reward pooling algorithm
 // Integrate privacy-enhancing smart contracts
 // Optimize contract storage for gas reduction
+// Integrate with external DeFi protocols
