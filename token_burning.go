@@ -5,3 +5,4 @@
 // Enhance contract interaction APIs
 // Implement decentralized arbitration in contracts
 // Optimize storage for off-chain data
+// Improve staking logic for better rewards
