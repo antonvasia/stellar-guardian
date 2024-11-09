@@ -2,3 +2,4 @@
 // Enhance contract upgrade process
 // Enhance smart contract upgradeability
 // Fix issues in token transfer logic
+// Optimize contract storage for gas reduction
