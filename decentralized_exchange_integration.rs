@@ -4,3 +4,4 @@
 // Improve gas estimation for transactions
 // Integrate IPFS for storage
 // Add multi-sig wallet functionality
+// Refactor staking logic
