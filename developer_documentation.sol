@@ -6,3 +6,4 @@
 // Refactor decentralized exchange (DEX) code
 // Fix issue in token vesting logic
 // Refactor contract state machine design
+// Fix scalability issues with smart contracts
