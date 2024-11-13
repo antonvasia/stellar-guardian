@@ -4,3 +4,4 @@
 // Add support for fractional token ownership
 // Optimize contract storage for gas reduction
 // Fix compatibility with MetaMask
+// Add security checks for contract deployment
