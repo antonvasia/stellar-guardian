@@ -5,3 +5,4 @@
 // Implement dynamic fee adjustment
 // Fix security vulnerability in random number generation
 // Improve security for token minting contracts
+// Integrate IPFS for storage
