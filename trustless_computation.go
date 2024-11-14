@@ -3,3 +3,4 @@
 // Fix transaction replay issue
 // Fix security vulnerability in random number generation
 // Refactor reward pooling algorithm
+// Integrate Chainlink oracles for price data
