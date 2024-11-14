@@ -6,3 +6,4 @@
 // Improve staking and yield farming logic
 // Refactor smart contract testing framework
 // Update testing framework for Solidity
+// Enhance smart contract upgradeability
