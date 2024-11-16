@@ -6,3 +6,4 @@
 // Improve contract verification speed
 // Add support for multi-signature wallet contracts
 // Add support for batch transaction processing
+// Implement zero-knowledge proof (ZKP) support
