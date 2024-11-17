@@ -18,3 +18,4 @@
 // Integrate with multi-token standards
 // Improve token burning mechanism
 // Add slashing mechanism for malicious actors
+// Implement delegation pattern
