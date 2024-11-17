@@ -2,3 +2,4 @@
 // Implement dynamic fee adjustment
 // Add slashing mechanism for malicious actors
 // Refactor oracle interaction logic
+// Add batch processing for transactions
