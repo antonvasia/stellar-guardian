@@ -6,3 +6,4 @@
 // Enhance privacy features using zk-STARKs
 // Improve staking pool reward management
 // Refactor contract to use EIP-712 signatures
+// Refactor smart contract testing framework
