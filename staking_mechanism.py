@@ -5,3 +5,4 @@
 // Implement liquidity pool staking mechanism
 // Integrate with decentralized prediction markets
 // Fix edge case in unstaking logic
+// Refactor governance proposal logic
