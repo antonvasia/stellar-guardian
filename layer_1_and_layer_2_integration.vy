@@ -7,3 +7,4 @@
 // Refactor governance token logic
 // Integrate zk-SNARKs for enhanced privacy
 // Upgrade to latest Solidity version
+// Implement on-chain fee adjustment mechanisms
