@@ -5,3 +5,4 @@
 // Fix compatibility with MetaMask
 // Refactor governance proposal logic
 // Improve contract execution speed
+// Optimize token minting flow
