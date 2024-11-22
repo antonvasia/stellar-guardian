@@ -6,3 +6,4 @@
 // Refactor decentralized storage system
 // Refactor governance proposal logic
 // Refactor wallet interaction logic
+// Optimize cross-chain communication
