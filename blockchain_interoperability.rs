@@ -9,3 +9,4 @@
 // Optimize gas usage in smart contracts
 // Improve on-chain governance systems
 // Reduce gas cost in minting logic
+// Refactor contract to use EIP-712 signatures
