@@ -2,3 +2,4 @@
 // Fix bugs in NFT metadata handling
 // Improve token minting flow efficiency
 // Implement a new contract event system
+// Refactor decentralized governance structure
