@@ -2,3 +2,4 @@
 // Add batch processing for transactions
 // Fix issue in ERC-20 token transfers
 // Fix ERC-1155 contract interactions
+// Fix type mismatch in Haskell smart contract
