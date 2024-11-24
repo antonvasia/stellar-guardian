@@ -5,3 +5,4 @@
 // Integrate privacy-preserving mechanisms
 // Fix security vulnerability in random number generation
 // Enhance contract initialization process
+// Fix issues in token transfer logic
