@@ -5,3 +5,4 @@
 // Enhance privacy features using zk-STARKs
 // Add automated contract testing tools
 // Enhance off-chain data processing
+// Bugfix: incorrect reward calculation
