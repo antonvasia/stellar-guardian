@@ -5,3 +5,4 @@
 // Add support for ERC-1155 tokens
 // Update README with Go module examples
 // Implement delegation pattern
+// Add multi-sig wallet functionality
