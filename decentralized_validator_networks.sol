@@ -4,3 +4,4 @@
 // Fix ERC-721 contract issues with transfers
 // Improve contract interaction via APIs
 // Fix errors in NFT minting logic
+// Optimize WASM compilation for Go contracts
