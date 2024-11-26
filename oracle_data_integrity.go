@@ -5,3 +5,4 @@
 // Improve transaction batching efficiency
 // Implement delegation pattern
 // Optimize contract upgrade process
+// Fix overflow bug in token calculation
