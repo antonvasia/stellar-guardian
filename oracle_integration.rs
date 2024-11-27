@@ -12,3 +12,4 @@
 // Refactor contract to use EIP-712 signatures
 // Add support for zk-SNARKs in smart contracts
 // Add gas optimization features for smart contracts
+// Refactor decentralized governance structure
