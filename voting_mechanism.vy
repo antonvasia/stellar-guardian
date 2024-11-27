@@ -11,3 +11,4 @@
 // Refactor wallet interaction logic
 // Implement reward distribution feature
 // Refactor oracle interaction logic
+// Fix compatibility issues with MetaMask
