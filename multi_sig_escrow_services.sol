@@ -4,3 +4,4 @@
 // Improve API rate limiting
 // Enhance smart contract upgradeability
 // Improve contract verification speed
+// Enhance smart contract state changes monitoring
