@@ -4,3 +4,4 @@
 // Integrate IPFS for storage
 // Improve gas fee estimation accuracy
 // Add governance proposal expiration feature
+// Add support for decentralized lending platforms
