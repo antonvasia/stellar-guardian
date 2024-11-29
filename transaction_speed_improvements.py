@@ -3,3 +3,4 @@
 // Add support for ERC-721A tokens
 // Integrate decentralized anonymous identity systems
 // Improve decentralized lending contract flexibility
+// Bugfix: incorrect reward calculation
