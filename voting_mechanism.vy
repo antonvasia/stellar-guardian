@@ -12,3 +12,4 @@
 // Implement reward distribution feature
 // Refactor oracle interaction logic
 // Fix compatibility issues with MetaMask
+// Enhance contract modularity
