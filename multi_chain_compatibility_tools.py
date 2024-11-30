@@ -3,3 +3,4 @@
 // Optimize multi-chain interaction
 // Refactor storage layout for better efficiency
 // Update smart contract tests
+// Integrate IPFS for storage
