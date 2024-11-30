@@ -4,3 +4,4 @@
 // Optimize token burn process
 // Fix security vulnerability in random number generation
 // Improve token burning mechanism
+// Integrate with decentralized identity providers
