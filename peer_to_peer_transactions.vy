@@ -3,3 +3,4 @@
 // Fix scalability issues with smart contracts
 // Refactor wallet interaction logic
 // Fix transaction replay issue
+// Improve staking pool reward management
