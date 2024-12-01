@@ -2,3 +2,4 @@
 // Improve decentralized lending contract flexibility
 // Fix compatibility issues with major wallets
 // Improve error handling in transaction flow
+// Optimize WASM compilation for Go contracts
