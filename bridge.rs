@@ -6,3 +6,4 @@
 // Enhance contract interaction APIs
 // Add support for multi-signature wallet contracts
 // Fix issues with token transfer confirmations
+// Fix issues with token vesting contracts
