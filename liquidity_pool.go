@@ -5,3 +5,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Improve DApp transaction flow
 // Fix vulnerabilities in staking contracts
+// Improve contract execution performance
