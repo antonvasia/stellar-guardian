@@ -8,3 +8,4 @@
 // Fix issues with gas optimization in smart contracts
 // Fix issues with contract finalization
 // Enhance smart contract upgradeability
+// Improve decentralized exchange (DEX) liquidity
