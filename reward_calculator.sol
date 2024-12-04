@@ -9,3 +9,4 @@
 // Refactor multi-asset token management
 // Add governance proposal expiration feature
 // Fix type mismatch in Haskell smart contract
+// Refactor governance proposal logic
