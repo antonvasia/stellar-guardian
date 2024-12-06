@@ -9,3 +9,4 @@
 // Optimize hashing algorithm
 // Implement adaptive block size for Ethereum
 // Fix issues with ERC-20 token approvals
+// Add support for ERC-721A tokens
