@@ -3,3 +3,4 @@
 // Add support for decentralized credit scoring
 // Add support for ERC-721A tokens
 // Integrate automated market maker (AMM) logic
+// Fix governance proposal approval logic
