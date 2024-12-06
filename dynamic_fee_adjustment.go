@@ -5,3 +5,4 @@
 // Enhance smart contract upgradeability
 // Enhance contract interaction APIs
 // Add batch processing for transactions
+// Fix type mismatch in Haskell smart contract
