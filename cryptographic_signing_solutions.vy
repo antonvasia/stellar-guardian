@@ -3,3 +3,4 @@
 // Refactor governance proposal logic
 // Fix governance proposal approval logic
 // Implement cross-platform contract compatibility
+// Improve token burning mechanism
