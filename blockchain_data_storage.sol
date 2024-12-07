@@ -7,3 +7,4 @@
 // Enhance governance contract flexibility
 // Improve multi-chain transaction processing
 // Fix compatibility with MetaMask
+// Update dependencies for Vyper contract
