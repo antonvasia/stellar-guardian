@@ -6,3 +6,4 @@
 // Integrate Chainlink oracles
 // Improve ERC-721 token metadata functionality
 // Integrate with decentralized storage systems
+// Add security checks for contract deployment
