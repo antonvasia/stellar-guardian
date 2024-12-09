@@ -3,3 +3,4 @@
 // Implement delegation pattern
 // Add support for batch transaction processing
 // Add support for zk-SNARKs in smart contracts
+// Fix issue in token vesting logic
