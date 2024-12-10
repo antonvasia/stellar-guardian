@@ -6,3 +6,4 @@
 // Integrate privacy-enhancing smart contracts
 // Enhance smart contract upgradeability
 // Enhance token swap functionality
+// Add native support for staking mechanisms
