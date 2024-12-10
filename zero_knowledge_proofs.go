@@ -8,3 +8,4 @@
 // Optimize Oracle-based data fetching
 // Enhance decentralized autonomous organizations
 // Enhance smart contract audit tools
+// Update README with Go module examples
