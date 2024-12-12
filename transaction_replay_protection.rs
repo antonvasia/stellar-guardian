@@ -7,3 +7,4 @@
 // Implement on-chain identity verification
 // Improve decentralized lending contract flexibility
 // Implement delegation pattern
+// Fix deserialization bug in Haskell code
