@@ -6,3 +6,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Implement liquidity pool staking mechanism
 // Fix contract reentrancy issues
+// Add support for fractional token ownership
