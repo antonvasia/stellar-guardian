@@ -6,3 +6,4 @@
 // Add support for decentralized insurance protocols
 // Enhance governance contract flexibility
 // Integrate with decentralized storage systems
+// Improve error handling in transaction flow
