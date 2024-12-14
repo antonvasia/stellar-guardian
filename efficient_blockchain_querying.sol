@@ -4,3 +4,4 @@
 // Optimize gas cost in function execution
 // Integrate chain-agnostic oracles
 // Improve gas estimation for transactions
+// Optimize WASM compilation for Go contracts
