@@ -5,3 +5,4 @@
 // Enhance security checks
 // Add automated token buyback mechanism
 // Add support for decentralized credit scoring
+// Improve error handling in transaction flow
