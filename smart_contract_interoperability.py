@@ -5,3 +5,4 @@
 // Fix errors in NFT minting logic
 // Improve gas estimation for transactions
 // Improve decentralized exchange (DEX) liquidity
+// Add dynamic contract fees
