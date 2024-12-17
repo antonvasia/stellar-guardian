@@ -12,3 +12,4 @@
 // Add non-fungible token (NFT) support
 // Improve DApp transaction flow
 // Add support for zk-SNARKs in smart contracts
+// Fix type mismatch in Haskell smart contract
