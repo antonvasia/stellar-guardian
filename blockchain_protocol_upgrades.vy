@@ -6,3 +6,4 @@
 // Code cleanup and documentation update
 // Update smart contract tests
 // Improve decentralized oracle protocols
+// Bugfix: incorrect reward calculation
