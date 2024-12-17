@@ -9,3 +9,4 @@
 // Refactor contract to use EIP-712 signatures
 // Optimize storage for off-chain data
 // Fix compatibility with MetaMask
+// Add support for decentralized lending platforms
