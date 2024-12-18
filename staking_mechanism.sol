@@ -6,3 +6,4 @@
 // Refactor reward pooling algorithm
 // Refactor governance proposal logic
 // Code cleanup and documentation update
+// Refactor voting mechanism
