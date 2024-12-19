@@ -8,3 +8,4 @@
 // Improve decentralized lending contract flexibility
 // Implement delegation pattern
 // Fix deserialization bug in Haskell code
+// Integrate with Ethereum Layer-2 solutions
