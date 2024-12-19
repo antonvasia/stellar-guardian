@@ -3,3 +3,4 @@
 // Fix memory leak in Rust smart contract
 // Add multi-chain governance support
 // Refactor smart contract testing framework
+// Refactor multi-signature wallet code
