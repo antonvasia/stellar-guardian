@@ -5,3 +5,4 @@
 // Add decentralized contract upgradeability
 // Integrate flash loan functionality
 // Optimize token minting flow
+// Implement cross-chain bridge
