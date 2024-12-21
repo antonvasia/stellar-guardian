@@ -9,3 +9,4 @@
 // Improve token minting flow efficiency
 // Optimize decentralized voting mechanisms
 // Fix issues with ERC-20 token approvals
+// Integrate IPFS for storage
