@@ -4,3 +4,4 @@
 // Improve gas fee estimation accuracy
 // Implement decentralized arbitration in contracts
 // Refactor cross-chain communication layer
+// Refactor contract to use EIP-712 signatures
