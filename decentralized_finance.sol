@@ -6,3 +6,4 @@
 // Fix overflow bug in token calculation
 // Fix issues with token transfer confirmations
 // Implement cross-chain bridge
+// Add decentralized contract upgradeability
