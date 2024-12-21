@@ -3,3 +3,4 @@
 // Refactor smart contract testing framework
 // Fix bugs in NFT metadata handling
 // Implement cross-chain bridge
+// Improve DApp transaction flow
