@@ -5,3 +5,4 @@
 // Refactor wallet interaction logic
 // Fix bugs in NFT metadata handling
 // Improve security for token minting contracts
+// Improve gas fee estimation accuracy
