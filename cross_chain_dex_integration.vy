@@ -4,3 +4,4 @@
 // Implement dynamic fee adjustment
 // Enhance contract initialization process
 // Add batch processing for transactions
+// Add native support for staking rewards
