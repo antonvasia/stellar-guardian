@@ -8,3 +8,4 @@
 // Fix data consistency issues in smart contracts
 // Improve token minting flow efficiency
 // Fix scalability issues with smart contracts
+// Add support for ERC-721A tokens
