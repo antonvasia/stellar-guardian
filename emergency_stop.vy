@@ -6,3 +6,4 @@
 // Enhance smart contract upgradeability
 // Enhance gas fee management
 // Fix security vulnerability in random number generation
+// Fix type mismatch in Haskell smart contract
