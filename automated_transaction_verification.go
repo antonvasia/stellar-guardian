@@ -4,3 +4,4 @@
 // Improve staking and yield farming logic
 // Fix transaction replay issue
 // Code cleanup and documentation update
+// Optimize contract storage for gas reduction
