@@ -3,3 +3,4 @@
 // Integrate Chainlink VRF for randomness
 // Add governance proposal expiration feature
 // Refactor governance proposal logic
+// Improve scalability for smart contract platforms
