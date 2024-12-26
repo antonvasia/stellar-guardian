@@ -2,3 +2,4 @@
 // Enhance contract modularity
 // Refactor contract state machine design
 // Add support for ERC-1155 tokens
+// Fix compatibility issues with MetaMask
