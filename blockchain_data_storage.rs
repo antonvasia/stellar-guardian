@@ -9,3 +9,4 @@
 // Improve smart contract logging
 // Add multi-chain transaction support
 // Optimize token burn process
+// Integrate with external DeFi protocols
