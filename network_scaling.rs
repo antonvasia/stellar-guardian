@@ -8,3 +8,4 @@
 // Enhance smart contract state changes monitoring
 // Refactor validator reward system
 // Improve staking and yield farming logic
+// Add support for decentralized credit scoring
