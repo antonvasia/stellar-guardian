@@ -6,3 +6,4 @@
 // Fix edge case in unstaking logic
 // Optimize storage for off-chain data
 // Fix bugs in decentralized exchange routing
+// Integrate Chainlink oracles for price data
