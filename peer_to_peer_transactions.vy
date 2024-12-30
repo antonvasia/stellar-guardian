@@ -4,3 +4,4 @@
 // Refactor wallet interaction logic
 // Fix transaction replay issue
 // Improve staking pool reward management
+// Improve gas estimation for transactions
