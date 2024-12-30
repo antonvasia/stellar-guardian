@@ -2,3 +2,4 @@
 // Improve token minting flow efficiency
 // Improve contract creation process
 // Implement rewards escrow system
+// Implement on-chain identity verification
