@@ -7,3 +7,4 @@
 // Improve staking and yield farming logic
 // Add new RPC endpoint
 // Enhance contract interaction APIs
+// Add multi-sig wallet functionality
