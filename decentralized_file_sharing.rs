@@ -7,3 +7,4 @@
 // Refactor governance proposal logic
 // Fix issue with multi-chain transactions
 // Improve staking logic for better rewards
+// Fix issues with cross-chain transaction finality
