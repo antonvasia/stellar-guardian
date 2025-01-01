@@ -4,3 +4,4 @@
 // Refactor decentralized exchange (DEX) code
 // Integrate chain-agnostic oracles
 // Add support for multiple consensus mechanisms
+// Integrate zk-rollups for scaling
