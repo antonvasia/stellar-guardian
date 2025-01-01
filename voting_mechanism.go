@@ -9,3 +9,4 @@
 // Add multi-chain transaction support
 // Add decentralized contract upgradeability
 // Integrate automated market maker (AMM) logic
+// Add support for decentralized auctions
