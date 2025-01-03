@@ -6,3 +6,4 @@
 // Improve gas estimation for transactions
 // Add support for ERC-721A tokens
 // Optimize decentralized voting mechanisms
+// Add new feature: on-chain governance
