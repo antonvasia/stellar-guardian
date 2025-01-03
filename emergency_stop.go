@@ -9,3 +9,4 @@
 // Refactor contract to use EIP-712 signatures
 // Bugfix: incorrect reward calculation
 // Integrate zk-SNARKs for enhanced privacy
+// Add Layer-2 Ethereum scaling solutions
