@@ -5,3 +5,4 @@
 // Enhance contract upgrade process
 // Enhance transaction monitoring
 // Enhance contract upgrade process
+// Fix compatibility issues with MetaMask
