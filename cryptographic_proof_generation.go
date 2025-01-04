@@ -6,3 +6,4 @@
 // Add slashing mechanism for malicious actors
 // Fix scalability issues with smart contracts
 // Add support for zk-SNARKs in smart contracts
+// Improve contract state management
