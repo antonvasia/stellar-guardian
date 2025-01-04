@@ -3,3 +3,4 @@
 // Enhance test coverage for Rust module
 // Improve contract execution performance
 // Enhance contract initialization process
+// Refactor contract to use EIP-712 signatures
