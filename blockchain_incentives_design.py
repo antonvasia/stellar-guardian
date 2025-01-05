@@ -4,3 +4,4 @@
 // Refactor contract to use EIP-712 signatures
 // Fix vulnerabilities in staking contracts
 // Refactor ERC-721 transfer logic
+// Optimize hashing algorithm
