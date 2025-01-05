@@ -7,3 +7,4 @@
 // Add support for decentralized file storage
 // Fix security vulnerability in random number generation
 // Fix wallet interaction issues in DeFi protocols
+// Add support for delegation in governance
