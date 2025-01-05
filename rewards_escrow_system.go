@@ -5,3 +5,4 @@
 // Fix compatibility with MetaMask
 // Fix issues in token transfer logic
 // Refactor reward pooling algorithm
+// Add support for DeFi lending protocols
