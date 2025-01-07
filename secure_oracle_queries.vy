@@ -3,3 +3,4 @@
 // Improve token burning mechanism
 // Improve contract execution performance
 // Enhance contract initialization process
+// Fix ERC-20 token interface bugs
