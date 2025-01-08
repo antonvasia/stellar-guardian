@@ -7,3 +7,4 @@
 // Refactor governance proposal logic
 // Code cleanup and documentation update
 // Refactor voting mechanism
+// Integrate zk-rollups for scaling
