@@ -2,3 +2,4 @@
 // Fix issues in token transfer logic
 // Code cleanup and documentation update
 // Integrate multi-chain liquidity pools
+// Add non-fungible token (NFT) support
