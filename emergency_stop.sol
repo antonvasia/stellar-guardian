@@ -9,3 +9,4 @@
 // Fix bugs in multi-token systems
 // Integrate staking rewards automation
 // Enhance developer documentation
+// Integrate chain-agnostic oracles
