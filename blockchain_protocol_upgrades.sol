@@ -4,3 +4,4 @@
 // Fix issue in ERC-20 token transfers
 // Fix overflow bug in token calculation
 // Fix compatibility issues with major wallets
+// Implement delegation pattern
