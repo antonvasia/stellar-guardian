@@ -3,3 +3,4 @@
 // Optimize token burn process
 // Implement price feed oracles for tokens
 // Bugfix: incorrect reward calculation
+// Refactor contract to use EIP-712 signatures
