@@ -4,3 +4,4 @@
 // Fix bug in random number generation
 // Integrate Chainlink oracles for price data
 // Add support for delegation in governance
+// Implement delegation pattern
