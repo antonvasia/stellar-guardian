@@ -10,3 +10,4 @@
 // Optimize storage for off-chain data
 // Fix compatibility with MetaMask
 // Add support for decentralized lending platforms
+// Enhance token swap functionality
