@@ -2,3 +2,4 @@
 // Add support for multi-signature wallet contracts
 // Update README with Go module examples
 // Improve token burning mechanism
+// Integrate chain-agnostic oracles
