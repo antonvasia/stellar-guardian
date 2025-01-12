@@ -10,3 +10,4 @@
 // Integrate with external DeFi protocols
 // Integrate with decentralized storage systems
 // Integrate multi-chain liquidity pools
+// Refactor incentive structure in DeFi protocol
