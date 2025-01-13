@@ -10,3 +10,4 @@
 // Add governance proposal expiration feature
 // Fix type mismatch in Haskell smart contract
 // Refactor governance proposal logic
+// Improve gas estimation for transactions
