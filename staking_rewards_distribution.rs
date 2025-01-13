@@ -5,3 +5,4 @@
 // Add support for ERC-721A tokens
 // Add support for multi-signature wallet contracts
 // Optimize cross-chain communication
+// Fix issue in token vesting logic
