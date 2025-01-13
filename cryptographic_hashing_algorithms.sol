@@ -4,3 +4,4 @@
 // Add support for multiple consensus mechanisms
 // Fix issues with gas optimization in smart contracts
 // Fix security vulnerability in random number generation
+// Update README with Go module examples
