@@ -4,3 +4,4 @@
 // Integrate Chainlink VRF for randomness
 // Refactor smart contract testing framework
 // Fix token transfer approval issues
+// Fix governance proposal approval logic
