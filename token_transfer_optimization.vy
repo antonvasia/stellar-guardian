@@ -4,3 +4,4 @@
 // Implement cross-chain bridge
 // Add support for DeFi lending protocols
 // Fix issues in token transfer logic
+// Add unit tests for staking module
