@@ -8,3 +8,4 @@
 // Improve contract modularity
 // Implement automated governance voting
 // Improve staking logic for better rewards
+// Fix bugs in NFT metadata handling
