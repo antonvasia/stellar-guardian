@@ -8,3 +8,4 @@
 // Refactor governance token logic
 // Add non-fungible token (NFT) support
 // Improve contract execution performance
+// Refactor contract state machine design
