@@ -5,3 +5,4 @@
 // Fix compatibility with MetaMask
 // Implement on-chain identity verification
 // Optimize storage for off-chain data
+// Add support for decentralized auctions
