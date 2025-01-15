@@ -5,3 +5,4 @@
 // Integrate privacy-enhancing smart contracts
 // Improve transaction batching efficiency
 // Improve smart contract code modularity
+// Add automated contract testing tools
