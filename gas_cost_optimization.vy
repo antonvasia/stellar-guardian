@@ -8,3 +8,4 @@
 // Fix issues with contract state management
 // Fix governance proposal approval logic
 // Refactor validator reward system
+// Refactor oracle interaction logic
