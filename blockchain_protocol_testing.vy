@@ -3,3 +3,4 @@
 // Fix governance proposal approval logic
 // Integrate zk-rollups for scaling
 // Refactor reward pooling algorithm
+// Integrate IPFS for storage
