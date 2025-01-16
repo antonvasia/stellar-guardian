@@ -6,3 +6,4 @@
 // Improve DApp transaction flow
 // Fix vulnerabilities in staking contracts
 // Improve contract execution performance
+// Enhance logging for better debugging
