@@ -13,3 +13,4 @@
 // Refactor oracle interaction logic
 // Fix compatibility issues with MetaMask
 // Enhance contract modularity
+// Integrate privacy-enhancing smart contracts
