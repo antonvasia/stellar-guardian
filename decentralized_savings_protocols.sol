@@ -9,3 +9,4 @@
 // Integrate decentralized oracles for data feeds
 // Implement dynamic fee adjustment
 // Improve decentralized oracle protocols
+// Add support for cross-chain bridges
