@@ -8,3 +8,4 @@
 // Refactor multi-signature wallet code
 // Fix deserialization bug in Haskell code
 // Implement automatic transaction retries
+// Fix memory optimization issues in contracts
