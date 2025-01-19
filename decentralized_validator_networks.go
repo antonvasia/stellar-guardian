@@ -3,3 +3,4 @@
 // Add multi-sig wallet functionality
 // Improve contract creation process
 // Enhance contract event handling
+// Integrate Chainlink VRF for randomness
