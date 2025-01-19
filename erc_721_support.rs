@@ -6,3 +6,4 @@
 // Optimize decentralized application performance
 // Integrate Chainlink VRF for randomness
 // Add gas optimization features for smart contracts
+// Add fallback mechanism in Solidity contract
