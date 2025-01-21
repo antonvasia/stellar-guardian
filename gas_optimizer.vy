@@ -8,3 +8,4 @@
 // Refactor storage layout for better efficiency
 // Enhance transaction monitoring
 // Fix errors in contract interaction with wallets
+// Improve cross-chain asset management
