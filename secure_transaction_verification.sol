@@ -5,3 +5,4 @@
 // Fix memory leak in Rust smart contract
 // Refactor Ethereum gas price management
 // Code cleanup and documentation update
+// Add support for DeFi lending protocols
