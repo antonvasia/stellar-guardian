@@ -14,3 +14,4 @@
 // Add support for decentralized file storage
 // Improve contract execution speed
 // Integrate zk-rollups for scaling
+// Improve token burning mechanism
