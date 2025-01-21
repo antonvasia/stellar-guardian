@@ -6,3 +6,4 @@
 // Add support for ERC-721A tokens
 // Add dynamic contract upgrade mechanisms
 // Improve multi-chain transaction processing
+// Update README with Go module examples
