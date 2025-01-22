@@ -8,3 +8,4 @@
 // Fix errors in NFT minting logic
 // Refactor voting mechanism
 // Implement on-chain identity verification
+// Fix security vulnerability in random number generation
