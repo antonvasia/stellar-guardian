@@ -9,3 +9,4 @@
 // Refactor multi-signature wallet code
 // Add support for DeFi lending protocols
 // Add support for decentralized marketplaces
+// Add batch processing for transactions
