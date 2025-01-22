@@ -5,3 +5,4 @@
 // Integrate with decentralized prediction markets
 // Enhance transaction monitoring
 // Add batch processing for transactions
+// Add support for ERC-721A tokens
