@@ -4,3 +4,4 @@
 // Fix issue in token vesting logic
 // Fix token transfer approval issues
 // Add support for batch transaction processing
+// Add support for ERC-721A tokens
