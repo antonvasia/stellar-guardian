@@ -4,3 +4,4 @@
 // Fix overflow bug in token calculation
 // Optimize contract upgrade process
 // Optimize decentralized application performance
+// Refactor decentralized governance structure
