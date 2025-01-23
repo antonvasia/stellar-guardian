@@ -6,3 +6,4 @@
 // Add batch processing for transactions
 // Add native support for staking rewards
 // Refactor incentive structure in DeFi protocol
+// Fix issues with ERC-20 token approvals
