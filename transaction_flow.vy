@@ -5,3 +5,4 @@
 // Integrate zk-rollups for scaling
 // Fix errors in NFT minting logic
 // Add batch processing for transactions
+// Refactor reward pooling algorithm
