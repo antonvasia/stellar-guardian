@@ -3,3 +3,4 @@
 // Add fallback mechanism in Solidity contract
 // Code cleanup and documentation update
 // Integrate zk-SNARKs for enhanced privacy
+// Refactor token distribution mechanism
