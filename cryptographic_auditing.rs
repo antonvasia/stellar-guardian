@@ -4,3 +4,4 @@
 // Implement decentralized arbitration in contracts
 // Add Layer-2 Ethereum scaling solutions
 // Improve contract modularity
+// Fix type mismatch in Haskell smart contract
