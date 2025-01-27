@@ -5,3 +5,4 @@
 // Fix security vulnerability in random number generation
 // Fix type mismatch in Haskell smart contract
 // Improve gas fee estimation accuracy
+// Fix errors in contract interaction with wallets
