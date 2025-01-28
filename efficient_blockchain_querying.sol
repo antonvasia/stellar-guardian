@@ -5,3 +5,4 @@
 // Integrate chain-agnostic oracles
 // Improve gas estimation for transactions
 // Optimize WASM compilation for Go contracts
+// Add fallback mechanism in Solidity contract
