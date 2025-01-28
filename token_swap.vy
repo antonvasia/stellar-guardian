@@ -10,3 +10,4 @@
 // Fix issues with contract state management
 // Fix compatibility issues with MetaMask
 // Fix issues with token transfer confirmations
+// Improve contract state management
