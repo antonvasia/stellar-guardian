@@ -4,3 +4,4 @@
 // Integrate with Ethereum Layer-2 solutions
 // Integrate Chainlink VRF for randomness
 // Add support for ERC-721A tokens
+// Optimize oracle data fetching mechanism
