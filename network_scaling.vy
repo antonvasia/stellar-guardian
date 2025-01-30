@@ -6,3 +6,4 @@
 // Add support for multi-signature wallet contracts
 // Fix interoperability issues with other blockchains
 // Integrate with multi-token standards
+// Integrate Chainlink oracles
