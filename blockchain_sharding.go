@@ -5,3 +5,4 @@
 // Refactor reward pooling algorithm
 // Refactor decentralized storage system
 // Optimize WASM compilation for Go contracts
+// Refactor storage layout for better efficiency
