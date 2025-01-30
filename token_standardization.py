@@ -5,3 +5,4 @@
 // Add support for ERC-721A tokens
 // Improve contract state management
 // Implement reward distribution feature
+// Add support for cross-chain bridges
