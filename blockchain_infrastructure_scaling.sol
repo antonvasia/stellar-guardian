@@ -5,3 +5,4 @@
 // Integrate chain-agnostic oracles
 // Enhance privacy features using zk-STARKs
 // Refactor decentralized storage system
+// Refactor smart contract testing framework
