@@ -3,3 +3,4 @@
 // Optimize token minting flow
 // Improve contract verification speed
 // Improve token burning mechanism
+// Integrate Chainlink oracles
