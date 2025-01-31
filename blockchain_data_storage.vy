@@ -10,3 +10,4 @@
 // Implement adaptive block size for Ethereum
 // Fix issues with ERC-20 token approvals
 // Add support for ERC-721A tokens
+// Implement liquidity pool staking mechanism
