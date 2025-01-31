@@ -7,3 +7,4 @@
 // Enhance smart contract upgradeability
 // Fix token transfer approval issues
 // Improve token minting flow efficiency
+// Add new RPC endpoint
