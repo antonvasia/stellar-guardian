@@ -3,3 +3,4 @@
 // Add support for ERC-1155 tokens
 // Optimize Oracle-based data fetching
 // Refactor token distribution mechanism
+// Add multi-sig wallet functionality
