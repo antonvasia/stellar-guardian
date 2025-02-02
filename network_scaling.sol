@@ -5,3 +5,4 @@
 // Refactor storage layout for better efficiency
 // Implement cross-chain bridge
 // Refactor token distribution mechanism
+// Refactor decentralized governance structure
