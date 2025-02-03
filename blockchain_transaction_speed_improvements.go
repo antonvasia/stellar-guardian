@@ -3,3 +3,4 @@
 // Fix interoperability issues with other blockchains
 // Implement automated governance voting
 // Refactor reward pooling algorithm
+// Improve token burning mechanism
