@@ -4,3 +4,4 @@
 // Fix errors in NFT minting logic
 // Add native support for staking rewards
 // Refactor oracle interaction logic
+// Refactor storage layout for better efficiency
