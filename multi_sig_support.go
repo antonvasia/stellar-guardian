@@ -8,3 +8,4 @@
 // Refactor reward pooling algorithm
 // Refactor governance token logic
 // Enhance transaction monitoring
+// Update dependencies for Vyper contract
