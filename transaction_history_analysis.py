@@ -6,3 +6,4 @@
 // Improve smart contract code modularity
 // Fix overflow bug in token calculation
 // Improve oracle data validation mechanisms
+// Add new feature: on-chain governance
