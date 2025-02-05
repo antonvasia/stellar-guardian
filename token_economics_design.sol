@@ -6,3 +6,4 @@
 // Optimize token minting flow
 // Fix edge case in unstaking logic
 // Integrate zk-rollups for scaling
+// Fix governance proposal approval logic
