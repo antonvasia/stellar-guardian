@@ -8,3 +8,4 @@
 // Optimize gas usage in smart contracts
 // Integrate with external blockchain networks
 // Fix vulnerabilities in staking contracts
+// Add native support for staking rewards
