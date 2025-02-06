@@ -7,3 +7,4 @@
 // Fix edge case in unstaking logic
 // Integrate zk-rollups for scaling
 // Fix governance proposal approval logic
+// Implement delegation pattern
