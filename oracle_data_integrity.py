@@ -2,3 +2,4 @@
 // Add new feature: on-chain governance
 // Implement reward distribution feature
 // Optimize token burn process
+// Fix edge case in unstaking logic
