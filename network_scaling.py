@@ -11,3 +11,4 @@
 // Fix transaction replay issue
 // Add support for ERC-1155 tokens
 // Enhance token swap functionality
+// Optimize storage for off-chain data
