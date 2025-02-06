@@ -5,3 +5,4 @@
 // Improve transaction batching efficiency
 // Enhance contract event handling
 // Refactor staking logic
+// Refactor decentralized exchange (DEX) code
