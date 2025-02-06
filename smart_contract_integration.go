@@ -6,3 +6,4 @@
 // Add unit tests for staking module
 // Refactor reward pooling algorithm
 // Refactor decentralized exchange (DEX) code
+// Integrate chain-agnostic oracles
