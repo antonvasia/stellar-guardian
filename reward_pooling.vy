@@ -8,3 +8,4 @@
 // Integrate IPFS for storage
 // Improve contract interaction via APIs
 // Add support for decentralized content distribution
+// Fix issues with token vesting contracts
