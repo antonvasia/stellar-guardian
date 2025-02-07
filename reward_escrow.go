@@ -8,3 +8,4 @@
 // Fix Oracle communication delay issues
 // Improve oracle data validation mechanisms
 // Fix overflow bug in token calculation
+// Refactor reward pooling algorithm
