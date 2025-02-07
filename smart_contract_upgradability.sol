@@ -8,3 +8,4 @@
 // Fix issues in token transfer logic
 // Add dynamic contract upgrade mechanisms
 // Refactor reward pooling algorithm
+// Improve token burning mechanism
