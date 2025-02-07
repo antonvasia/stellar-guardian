@@ -8,3 +8,4 @@
 // Integrate zk-rollups for scaling
 // Fix governance proposal approval logic
 // Implement delegation pattern
+// Implement a new contract event system
