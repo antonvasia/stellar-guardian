@@ -7,3 +7,4 @@
 // Implement liquidity pool staking mechanism
 // Fix contract reentrancy issues
 // Add support for fractional token ownership
+// Fix interoperability issues with other blockchains
