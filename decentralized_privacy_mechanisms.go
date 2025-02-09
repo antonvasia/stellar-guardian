@@ -8,3 +8,4 @@
 // Integrate with decentralized storage systems
 // Improve error handling in transaction flow
 // Fix issue in ERC-20 token transfers
+// Add non-fungible token (NFT) support
