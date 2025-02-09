@@ -7,3 +7,4 @@
 // Refactor reward pooling algorithm
 // Implement a new contract event system
 // Add slashing mechanism for malicious actors
+// Implement liquidity pool staking mechanism
