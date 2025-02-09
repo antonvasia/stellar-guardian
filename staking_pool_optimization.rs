@@ -3,3 +3,4 @@
 // Enhance contract modularity
 // Improve contract interaction via APIs
 // Improve API rate limiting
+// Add support for decentralized auctions
