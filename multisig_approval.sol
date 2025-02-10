@@ -7,3 +7,4 @@
 // Update smart contract tests
 // Integrate decentralized oracles for data feeds
 // Fix edge case in unstaking logic
+// Fix scalability issues with smart contracts
