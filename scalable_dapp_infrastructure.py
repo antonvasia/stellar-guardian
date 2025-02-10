@@ -6,3 +6,4 @@
 // Refactor governance proposal logic
 // Implement delegation pattern
 // Bugfix: incorrect reward calculation
+// Fix compatibility issues with MetaMask
