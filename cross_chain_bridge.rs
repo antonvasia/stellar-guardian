@@ -6,3 +6,4 @@
 // Add governance proposal expiration feature
 // Add support for decentralized credit scoring
 // Optimize cross-chain communication
+// Improve API rate limiting
