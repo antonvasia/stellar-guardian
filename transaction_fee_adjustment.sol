@@ -6,3 +6,4 @@
 // Add native support for staking mechanisms
 // Optimize cross-chain bridging mechanisms
 // Optimize oracle data fetching mechanism
+// Implement decentralized arbitration in contracts
