@@ -9,3 +9,4 @@
 // Fix issue in ERC-20 token transfers
 // Fix overflow bug in token calculation
 // Optimize token minting flow
+// Optimize proof-of-stake validation
