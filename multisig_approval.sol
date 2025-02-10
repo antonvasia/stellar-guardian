@@ -8,3 +8,4 @@
 // Integrate decentralized oracles for data feeds
 // Fix edge case in unstaking logic
 // Fix scalability issues with smart contracts
+// Refactor contract to use EIP-712 signatures
