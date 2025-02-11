@@ -4,3 +4,4 @@
 // Add support for Layer-2 solutions
 // Refactor incentive structure in DeFi protocol
 // Add support for multi-signature wallet contracts
+// Improve staking pool reward management
