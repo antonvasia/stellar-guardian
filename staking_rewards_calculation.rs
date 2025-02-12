@@ -5,3 +5,4 @@
 // Refactor cross-chain communication layer
 // Optimize state channels for faster transactions
 // Fix compatibility issues with major wallets
+// Fix errors in contract interaction with wallets
