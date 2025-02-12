@@ -3,3 +3,4 @@
 // Optimize storage for off-chain data
 // Improve contract state management
 // Optimize WASM compilation for Go contracts
+// Refactor reward pooling algorithm
