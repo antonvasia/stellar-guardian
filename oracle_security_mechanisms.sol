@@ -7,3 +7,4 @@
 // Implement price feed oracles for tokens
 // Enhance off-chain data processing
 // Refactor incentive structure in DeFi protocol
+// Integrate IPFS for storage
