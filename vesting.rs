@@ -4,3 +4,4 @@
 // Integrate Chainlink oracles for price data
 // Add automated contract testing tools
 // Add unit tests for staking module
+// Improve gas estimation for transactions
